@@ -88,6 +88,15 @@
       "subCategories": []
     },
     {
+      "id": "1754047789363",
+      "title": "华西地区",
+      "icon": "FolderKanban",
+      "description": "位于华西地区的博客作者，包括重庆市、四川省、贵州省、云南省、陕西省、甘肃省、青海省、宁夏自治区、新疆自治区、西藏自治区。",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
@@ -114,15 +123,6 @@
       ],
       "description": "",
       "enabled": true
-    },
-    {
-      "id": "1754047789363",
-      "title": "华西地区",
-      "icon": "FolderKanban",
-      "description": "位于华西地区的博客作者，包括重庆市、四川省、贵州省、云南省、陕西省、甘肃省、青海省、宁夏自治区、新疆自治区、西藏自治区。",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
