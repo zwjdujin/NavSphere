@@ -47,7 +47,7 @@
       "title": "优秀个人博客",
       "icon": "User",
       "description": "收集优秀个人博客。",
-      "enabled": true,
+      "enabled": false,
       "items": [],
       "subCategories": [
         {
