@@ -333,7 +333,16 @@
           "icon": "FolderOpen",
           "description": "博客作者位于河南省。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754049750233_4nh3shvza",
+              "title": "刑辩人在路上",
+              "href": "https://xingbianren.cn/",
+              "description": "80后刑辩律师的办案手记。",
+              "icon": "https://xingbianren.cn/zb_users/upload/2023/05/202305231684818664504571.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "64dea543-b942-4449-99a1-eb46d8fbdd91",
