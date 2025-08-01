@@ -367,6 +367,14 @@
               "description": "80后刑辩律师的办案手记。",
               "icon": "https://xingbianren.cn/zb_users/upload/2023/05/202305231684818664504571.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754064803300_bzzt5t8fb",
+              "title": "明月登楼博客",
+              "href": "https://www.imydl.com/",
+              "description": "草根站长学习、交流、分享、服务。",
+              "icon": "https://p.gxtesjy.com/wp-content/uploads/2017/01/favicon.ico",
+              "enabled": true
             }
           ]
         },
