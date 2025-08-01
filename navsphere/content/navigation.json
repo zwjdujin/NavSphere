@@ -316,6 +316,14 @@
           "description": "博客作者位于湖北省。",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "789f1782-f412-441a-9bd2-b331c74a5193",
+          "title": "湖南省",
+          "icon": "FolderOpen",
+          "description": "博客作者位于湖南省。",
+          "enabled": true,
+          "items": []
         }
       ]
     },
