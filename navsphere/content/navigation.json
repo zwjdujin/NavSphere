@@ -174,6 +174,14 @@
           "description": "博客作者位于海南省。",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "bd3dd31d-051c-4f2d-98c6-777cb95e5187",
+          "title": "香港",
+          "icon": "FolderOpen",
+          "description": "博客作者位于香港。",
+          "enabled": true,
+          "items": []
         }
       ]
     },
