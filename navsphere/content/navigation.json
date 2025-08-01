@@ -400,6 +400,14 @@
           "description": "博客作者位于宁夏自治区。",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "9c433954-a44e-4752-aa54-9c5c09418285",
+          "title": "新疆自治区",
+          "icon": "FolderOpen",
+          "description": "博客作者位于新疆自治区。",
+          "enabled": true,
+          "items": []
         }
       ]
     },
