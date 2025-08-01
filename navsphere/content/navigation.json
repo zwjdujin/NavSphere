@@ -283,6 +283,14 @@
               "description": "背包行走，流浪天下。行走的日子，我只是天堂的过客。户外背包徒步旅行原创博客。",
               "icon": "https://maie.name/favicon-32x32.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754065247900_15bdw2euh",
+              "title": "朝露碎梦",
+              "href": "https://aibofan.com/",
+              "description": "一个持续更新的个人博客，记录生活、工作、爱好的点点滴滴。与美景美食相伴，不负时光，爱美食，爱美景！",
+              "icon": "https://aibofan.com/wp-content/uploads/2024/04/cropped-20240420_065933-192x192.png",
+              "enabled": true
             }
           ]
         },
