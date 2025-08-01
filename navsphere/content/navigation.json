@@ -175,7 +175,16 @@
           "icon": "FolderOpen",
           "description": "博客作者位于广东省。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754064659621_25em1xhjj",
+              "title": "雅余",
+              "href": "https://yayu.net/",
+              "description": "茶余饭后，闲情雅致。",
+              "icon": "https://yayu.net/favicon.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "35dc47d4-b3fd-4014-ae84-5e722017a4cc",
