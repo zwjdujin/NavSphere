@@ -82,6 +82,14 @@
               "description": "一位 XR 行业的 Unity 开发者，记录学习笔记和个人项目的开发过程。",
               "icon": "https://tuncle.blog/img/avatar.jpg",
               "enabled": true
+            },
+            {
+              "id": "site_1754065303114_wfbxi24ia",
+              "title": "尘遇",
+              "href": "https://chenyu.me/",
+              "description": "我们都是这尘世孤独的过客，所有的跋涉，不过是为了邂逅一场高山流水的遇见！",
+              "icon": "https://chenyu.me/My/favicon.ico",
+              "enabled": true
             }
           ]
         },
