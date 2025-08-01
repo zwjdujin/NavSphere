@@ -106,6 +106,15 @@
       "subCategories": []
     },
     {
+      "id": "1754047912246",
+      "title": "华中地区",
+      "icon": "FolderKanban",
+      "description": "位于华中地区的博客作者，包括河南省、湖北省、湖南省。",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
@@ -132,15 +141,6 @@
       ],
       "description": "",
       "enabled": true
-    },
-    {
-      "id": "1754047912246",
-      "title": "华中地区",
-      "icon": "FolderKanban",
-      "description": "位于华中地区的博客作者，包括河南省、湖北省、湖南省。",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
