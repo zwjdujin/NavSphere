@@ -91,7 +91,16 @@
           "icon": "FolderOpen",
           "description": "博客作者位于江苏省。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754065004201_mrth7qhja",
+              "title": "二猫blog",
+              "href": "https://jingxin18.cn/",
+              "description": "记录记录了二猫的生活点滴和趣事。你可以看到二猫从书中摘录的精彩内容，欣赏到旅途中捕捉的美丽风景，以及品味到展现家乡独特风味的诱人美食。",
+              "icon": "https://cdn.jingxin18.cn/wp-content/uploads/2023/02/1677583088-1.webp",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "413e37c3-e29d-4cc7-b433-9676af3ba0ba",
