@@ -342,6 +342,14 @@
           "description": "博客作者位于辽宁省。",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "d00d69ea-5e08-4230-982e-88b9f8e97d12",
+          "title": "吉林省",
+          "icon": "FolderOpen",
+          "description": "博客作者位于吉林省。",
+          "enabled": true,
+          "items": []
         }
       ]
     },
