@@ -30,6 +30,14 @@
           "description": "尝试链接几乎所有的中文博客",
           "icon": "https://www.zhblogs.net/logo-light.webp",
           "enabled": true
+        },
+        {
+          "id": "site_1754046229670_ptfqfe7jo",
+          "title": "博客志",
+          "href": "http://www.jetli.com.cn/",
+          "description": "收藏有价值的有效更新的优秀个人独立博客。",
+          "icon": "http://www.jetli.com.cn/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
