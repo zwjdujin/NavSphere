@@ -14,6 +14,14 @@
           "description": "一个记录、展示独立博客的平台，即从加入这个活动起，我们的博客10年不关闭或者更久，保持更新和活力。",
           "icon": "https://www.foreverblog.cn/favicon.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754046071475_2f1k7ljlz",
+          "title": "博客圈",
+          "href": "https://bokequan.cn/",
+          "description": "连接中国各地及海外华人的个人独立博客，分享生活、技术、文化和成长的点滴。",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
