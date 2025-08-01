@@ -250,7 +250,16 @@
       "description": "位于华北地区的博客作者，包括北京市、天津市、河北省、山西省、内蒙古自治区。",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "cd2b8275-0770-4d84-b523-814a815e4922",
+          "title": "北京市",
+          "icon": "FolderOpen",
+          "description": "博客作者位于北京市。",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1754047912246",
