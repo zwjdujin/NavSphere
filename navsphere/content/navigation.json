@@ -358,7 +358,16 @@
           "icon": "FolderOpen",
           "description": "博客作者位于湖南省。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754063876706_bfpkead02",
+              "title": "闲一鱼博客",
+              "href": "https://www.macrr.com/",
+              "description": "分享个人所见、所得及所闻的有趣博客，既不是大神，也不NB,只是在生活不断折腾中找到乐趣。",
+              "icon": "https://res.macrr.com/wp-content/uploads/2017/12/xian-1.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
