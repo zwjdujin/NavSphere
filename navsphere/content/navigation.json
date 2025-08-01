@@ -266,6 +266,14 @@
           "description": "博客作者位于天津市。",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "cdf19321-43c7-456b-80e8-5a15557f1e9b",
+          "title": "河北省",
+          "icon": "FolderOpen",
+          "description": "博客作者位于河北省。",
+          "enabled": true,
+          "items": []
         }
       ]
     },
