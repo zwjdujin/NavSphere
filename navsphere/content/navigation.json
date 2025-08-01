@@ -116,6 +116,14 @@
           "description": "博客作者位于福建省。",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "1342e3db-07c0-4062-904c-861486f0456b",
+          "title": "江西省",
+          "icon": "FolderOpen",
+          "description": "博客作者位于江西省。",
+          "enabled": true,
+          "items": []
         }
       ]
     },
