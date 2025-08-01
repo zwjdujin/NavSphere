@@ -141,7 +141,16 @@
           "icon": "FolderOpen",
           "description": "博客作者位于安徽省。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754065581736_fn2a4qdzl",
+              "title": "周君blog",
+              "href": "https://www.zhoujunblog.com/",
+              "description": "一名乡村教师的心路历程，记录一名乡村教师的工作，学习和生活。",
+              "icon": "/assets/img_1754065577471.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "4321571d-2eb2-411f-a964-1a318920aec3",
