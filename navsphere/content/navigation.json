@@ -274,6 +274,14 @@
           "description": "博客作者位于河北省。",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "51eebf97-e794-460f-a91d-e08b01e73f43",
+          "title": "山西省",
+          "icon": "FolderOpen",
+          "description": "博客作者位于山西省。",
+          "enabled": true,
+          "items": []
         }
       ]
     },
