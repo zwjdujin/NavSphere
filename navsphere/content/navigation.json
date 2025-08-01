@@ -108,6 +108,14 @@
           "description": "博客作者位于安徽省。",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "4321571d-2eb2-411f-a964-1a318920aec3",
+          "title": "福建省",
+          "icon": "FolderOpen",
+          "description": "博客作者位于福建省。",
+          "enabled": true,
+          "items": []
         }
       ]
     },
