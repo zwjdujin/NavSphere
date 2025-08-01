@@ -216,6 +216,14 @@
           "description": "博客作者位于四川省。",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "97c0e499-c5e9-4f2e-b482-70109af63f0f",
+          "title": "贵州省",
+          "icon": "FolderOpen",
+          "description": "博客作者位于贵州省。",
+          "enabled": true,
+          "items": []
         }
       ]
     },
