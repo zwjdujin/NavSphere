@@ -166,6 +166,14 @@
           "description": "博客作者位于广西壮族自治区。",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "2d066a24-503f-4b8c-ba7f-59f39aa190e8",
+          "title": "海南省",
+          "icon": "FolderOpen",
+          "description": "博客作者位于海南省。",
+          "enabled": true,
+          "items": []
         }
       ]
     },
