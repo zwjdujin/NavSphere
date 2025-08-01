@@ -88,16 +88,7 @@
       "icon": "User",
       "description": "收集优秀个人博客。",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_1754027867267_8jw63yeg8",
-          "title": "缙哥哥的博客",
-          "href": "https://www.dujin.org/",
-          "description": "分享缙哥哥的中医药心得、武术笔记、趣闻杂谈、软件分享、无损音乐、视频短片、技术教程、摄影图片、旅游攻略、购物优惠。",
-          "icon": "/assets/img_1754028098164.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "a71c62d1-1ac6-4018-b045-a27569eeab2a",
@@ -105,7 +96,16 @@
           "icon": "Link",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754027867267_8jw63yeg8",
+              "title": "缙哥哥的博客",
+              "href": "https://www.dujin.org/",
+              "description": "分享缙哥哥的中医药心得、武术笔记、趣闻杂谈、软件分享、无损音乐、视频短片、技术教程、摄影图片、旅游攻略、购物优惠。",
+              "icon": "/assets/img_1754028098164.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "04fef795-27fe-42f5-9171-5bb4236203ad",
