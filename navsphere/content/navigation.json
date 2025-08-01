@@ -158,6 +158,14 @@
           "description": "博客作者位于广东省。",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "35dc47d4-b3fd-4014-ae84-5e722017a4cc",
+          "title": "广西壮族自治区",
+          "icon": "FolderOpen",
+          "description": "博客作者位于广西壮族自治区。",
+          "enabled": true,
+          "items": []
         }
       ]
     },
