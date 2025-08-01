@@ -22,6 +22,14 @@
           "description": "连接中国各地及海外华人的个人独立博客，分享生活、技术、文化和成长的点滴。",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1754046137494_kgvkire18",
+          "title": "集博栈",
+          "href": "https://www.zhblogs.net/",
+          "description": "尝试链接几乎所有的中文博客",
+          "icon": "https://www.zhblogs.net/logo-light.webp",
+          "enabled": true
         }
       ],
       "subCategories": []
