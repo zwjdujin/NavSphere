@@ -337,14 +337,6 @@
           "description": "",
           "items": [
             {
-              "id": "8_2_3",
-              "title": "World Vector Logo",
-              "href": "https://worldvectorlogo.com/",
-              "description": "Brand logos free to download",
-              "icon": "/assets/images/logos/worldvectorlogo.png",
-              "enabled": true
-            },
-            {
               "id": "8_2_4",
               "title": "Instant Logo Search",
               "href": "http://instantlogosearch.com/",
