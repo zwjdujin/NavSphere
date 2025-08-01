@@ -208,6 +208,14 @@
           "description": "博客作者位于重庆市。",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "abee4770-0c62-48b6-91e3-a00153d06a91",
+          "title": "四川省",
+          "icon": "FolderOpen",
+          "description": "博客作者位于四川省。",
+          "enabled": true,
+          "items": []
         }
       ]
     },
