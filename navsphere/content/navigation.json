@@ -334,7 +334,16 @@
       "description": "位于东北地区的博客作者，包括辽宁省、吉林省、黑龙江省。\n",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "b6f5d6a6-6f1f-409e-8665-51ea0971b55b",
+          "title": "辽宁省",
+          "icon": "FolderOpen",
+          "description": "博客作者位于辽宁省。",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1754048039287",
