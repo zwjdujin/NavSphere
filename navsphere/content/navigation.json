@@ -376,6 +376,14 @@
           "description": "博客作者位于陕西省。",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "bf05ee25-5268-4595-809b-895f2f10d162",
+          "title": "甘肃省",
+          "icon": "FolderOpen",
+          "description": "博客作者位于甘肃省。",
+          "enabled": true,
+          "items": []
         }
       ]
     },
