@@ -200,7 +200,16 @@
       "description": "位于华西地区的博客作者，包括重庆市、四川省、贵州省、云南省、西藏自治区。",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "5bea378e-3aaf-4680-8a1c-8b163d41cebe",
+          "title": "重庆市",
+          "icon": "FolderOpen",
+          "description": "博客作者位于重庆市。",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1754047876759",
