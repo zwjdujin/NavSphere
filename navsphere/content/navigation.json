@@ -215,7 +215,16 @@
           "icon": "FolderOpen",
           "description": "博客作者位于四川省。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754048834764_aa2n2w6pl",
+              "title": "代码狗",
+              "href": "https://www.daimadog.org/",
+              "description": "专注于WordPress建站,WordPress教程,各种代码实例、资源分享以及visionpro、halcon、opencv等工业视觉相关教程的个人博客网站。",
+              "icon": "https://www.daimadog.org/favicon.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "97c0e499-c5e9-4f2e-b482-70109af63f0f",
