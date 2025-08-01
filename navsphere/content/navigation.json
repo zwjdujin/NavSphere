@@ -96,6 +96,15 @@
       ],
       "description": "",
       "enabled": true
+    },
+    {
+      "id": "1754047554410",
+      "title": "华东地区",
+      "icon": "Box",
+      "description": "位于华东地区的博客作者，包括上海市、江苏省、浙江省、安徽省、福建省、江西省、山东省以及台湾省。",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
