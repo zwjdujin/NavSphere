@@ -224,6 +224,14 @@
           "description": "博客作者位于贵州省。",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "b527efb1-fd57-47d1-bb3a-6585dbf32ae8",
+          "title": "云南省",
+          "icon": "FolderOpen",
+          "description": "博客作者位于云南省。",
+          "enabled": true,
+          "items": []
         }
       ]
     },
