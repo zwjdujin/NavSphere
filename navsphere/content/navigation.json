@@ -150,7 +150,16 @@
       "description": "位于华南地区的博客作者，包括广东省、广西壮族自治区、海南省以及香港特别行政区和澳门特别行政区。",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "bbdd278d-802a-426c-bada-ba5848af961b",
+          "title": "广东省",
+          "icon": "FolderOpen",
+          "description": "博客作者位于广东省。",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1754047789363",
