@@ -61,7 +61,16 @@
       "icon": "Network",
       "description": "收集一些博客圈子，感兴趣的可以加入。",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1754045504517_ufjxp7bwm",
+          "title": "十年之约",
+          "href": "https://www.foreverblog.cn/",
+          "description": "一个记录、展示独立博客的平台，即从加入这个活动起，我们的博客10年不关闭或者更久，保持更新和活力。",
+          "icon": "https://www.foreverblog.cn/favicon.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
