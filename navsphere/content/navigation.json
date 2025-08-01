@@ -392,6 +392,14 @@
           "description": "博客作者位于青海省。",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "b3b9ed15-c6df-4c18-bbe8-7ccbe29424ae",
+          "title": "宁夏自治区",
+          "icon": "FolderOpen",
+          "description": "博客作者位于宁夏自治区。",
+          "enabled": true,
+          "items": []
         }
       ]
     },
