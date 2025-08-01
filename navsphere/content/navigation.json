@@ -476,6 +476,14 @@
               "description": "分享个人所见、所得及所闻的有趣博客，既不是大神，也不NB,只是在生活不断折腾中找到乐趣。",
               "icon": "https://res.macrr.com/wp-content/uploads/2017/12/xian-1.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754066389850_xee1dtdb5",
+              "title": "陋室生活",
+              "href": "https://www.loushi.site/",
+              "description": "谈笑有鸿儒，往来无白丁。",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
