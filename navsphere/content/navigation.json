@@ -368,7 +368,16 @@
       "description": "位于西北地区的博客作者，陕西省、甘肃省、青海省、宁夏自治区、新疆自治区。",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "e7544c93-74c7-4d2f-b050-a893077cdf0c",
+          "title": "陕西省",
+          "icon": "FolderOpen",
+          "description": "博客作者位于陕西省。",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "2",
