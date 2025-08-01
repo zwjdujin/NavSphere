@@ -437,7 +437,16 @@
           "icon": "FolderOpen",
           "description": "博客作者位于辽宁省。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754065106909_hjxakyvua",
+              "title": "载润札记",
+              "href": "https://www.zairun.com/",
+              "description": "日常碎语札记和你一同感受生活感悟，分享旅行摄影的乐趣，探索技术分享的奥秘，领略风俗文化的风情，记录生活点滴和兴趣探索。期待在这里与你相遇！",
+              "icon": "https://www.zairun.com/wp-content/uploads/2025/02/cropped-zairunblog-3-192x192.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "d00d69ea-5e08-4230-982e-88b9f8e97d12",
