@@ -124,6 +124,14 @@
           "description": "博客作者位于江西省。",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "c49948c1-f71d-4080-a668-857d44167228",
+          "title": "山东省",
+          "icon": "FolderOpen",
+          "description": "博客作者位于山东省。",
+          "enabled": true,
+          "items": []
         }
       ]
     },
