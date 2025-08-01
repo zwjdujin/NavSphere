@@ -132,7 +132,16 @@
           "icon": "FolderOpen",
           "description": "博客作者位于江西省。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754064331512_derxbtndh",
+              "title": "小杨生活志",
+              "href": "https://www.yanghuaxing.com/",
+              "description": "一个沙雕小青年记录成长历程，一切都那么简单，大部分也是平淡的，不需要过多的眼泪和笑来说明多糟糕或多美好，愿你享受生活里的小确幸，也拥有不可动摇的大确定，欢迎来到小杨生活志，希望在这里可以找到属于你的小确幸。",
+              "icon": "",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "c49948c1-f71d-4080-a668-857d44167228",
