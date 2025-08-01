@@ -99,6 +99,14 @@
               "description": "记录记录了二猫的生活点滴和趣事。你可以看到二猫从书中摘录的精彩内容，欣赏到旅途中捕捉的美丽风景，以及品味到展现家乡独特风味的诱人美食。",
               "icon": "https://cdn.jingxin18.cn/wp-content/uploads/2023/02/1677583088-1.webp",
               "enabled": true
+            },
+            {
+              "id": "site_1754065179169_152clcd52",
+              "title": "登山亦有道",
+              "href": "https://chenyan98.cn/",
+              "description": "记录生活的瞬间，分享学习的心得以及日常工作学习中遇到的问题和处理的方法。",
+              "icon": "https://qiniu.chenyan98.cn/favicon.ico",
+              "enabled": true
             }
           ]
         },
