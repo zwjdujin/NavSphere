@@ -232,6 +232,14 @@
           "description": "博客作者位于云南省。",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "bf0d0c43-fa56-46bf-887a-776ff21b0ec5",
+          "title": "西藏自治区",
+          "icon": "FolderOpen",
+          "description": "博客作者位于西藏自治区。",
+          "enabled": true,
+          "items": []
         }
       ]
     },
