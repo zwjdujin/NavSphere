@@ -79,6 +79,15 @@
       "subCategories": []
     },
     {
+      "id": "1754047598667",
+      "title": "华南地区",
+      "icon": "FolderKanban",
+      "description": "位于华南地区的博客作者，包括广东省、广西壮族自治区、海南省以及香港特别行政区和澳门特别行政区。",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
@@ -105,15 +114,6 @@
       ],
       "description": "",
       "enabled": true
-    },
-    {
-      "id": "1754047598667",
-      "title": "华南地区",
-      "icon": "FolderKanban",
-      "description": "位于华南地区的博客作者，包括广东省、广西壮族自治区、海南省以及香港特别行政区和澳门特别行政区。",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
