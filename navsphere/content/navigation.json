@@ -818,6 +818,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1754027772364",
+      "title": "2024 年",
+      "icon": "Star",
+      "description": "2024 年创立的博客。",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
