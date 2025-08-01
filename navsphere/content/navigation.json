@@ -300,7 +300,16 @@
       "description": "位于华中地区的博客作者，包括河南省、湖北省、湖南省。",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "d5a5e9a3-7d7f-4d4b-80e6-3081122e6325",
+          "title": "河南省",
+          "icon": "FolderOpen",
+          "description": "博客作者位于河南省。",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1754047989029",
