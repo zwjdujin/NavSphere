@@ -88,7 +88,16 @@
       "icon": "User",
       "description": "收集优秀个人博客。",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1754027867267_8jw63yeg8",
+          "title": "缙哥哥的博客",
+          "href": "https://www.dujin.org/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
