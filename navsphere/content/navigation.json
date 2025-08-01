@@ -282,6 +282,14 @@
           "description": "博客作者位于山西省。",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "cad42537-6cfe-4860-8433-d503b126d6e6",
+          "title": "内蒙古自治区",
+          "icon": "FolderOpen",
+          "description": "博客作者位于内蒙古自治区。",
+          "enabled": true,
+          "items": []
         }
       ]
     },
