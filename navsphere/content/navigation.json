@@ -115,6 +115,15 @@
       "subCategories": []
     },
     {
+      "id": "1754047989029",
+      "title": "东北地区",
+      "icon": "FolderKanban",
+      "description": "位于东北地区的博客作者，包括辽宁省、吉林省、黑龙江省。\n",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
@@ -141,15 +150,6 @@
       ],
       "description": "",
       "enabled": true
-    },
-    {
-      "id": "1754047989029",
-      "title": "东北地区",
-      "icon": "FolderKanban",
-      "description": "位于东北地区的博客作者，包括辽宁省、吉林省、黑龙江省。\n",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
