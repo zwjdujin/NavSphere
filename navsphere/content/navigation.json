@@ -54,6 +54,15 @@
       ],
       "description": "",
       "enabled": true
+    },
+    {
+      "id": "1754045435473",
+      "title": "博客圈子",
+      "icon": "Network",
+      "description": "收集一些博客圈子，感兴趣的可以加入。",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
