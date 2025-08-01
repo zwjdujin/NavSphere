@@ -435,7 +435,16 @@
           "icon": "FolderOpen",
           "description": "博客作者位于湖北省。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754065655369_0o4fknflu",
+              "title": "嘀咕",
+              "href": "https://digu.plus/",
+              "description": "人的头脑太复杂，时间过得久，有时候连自己也被自己骗了，记下来才是最真实的……",
+              "icon": "https://digu.plus/usr/themes/ghost/images/favicon/64x64.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "789f1782-f412-441a-9bd2-b331c74a5193",
