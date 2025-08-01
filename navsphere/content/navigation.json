@@ -74,7 +74,16 @@
           "icon": "FolderOpen",
           "description": "博客作者位于上海市。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754049619000_d412vssz9",
+              "title": "三叔的数字花园",
+              "href": "https://tuncle.blog/",
+              "description": "一位 XR 行业的 Unity 开发者，记录学习笔记和个人项目的开发过程。",
+              "icon": "https://tuncle.blog/img/avatar.jpg",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "3b840001-da2a-4e5e-abcd-3bb52640c189",
