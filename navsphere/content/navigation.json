@@ -182,6 +182,14 @@
           "description": "博客作者位于香港。",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "0d1e815e-065f-422a-9843-c5f3bb59aa14",
+          "title": "澳门",
+          "icon": "FolderOpen",
+          "description": "博客作者位于澳门。",
+          "enabled": true,
+          "items": []
         }
       ]
     },
