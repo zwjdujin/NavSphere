@@ -83,6 +83,15 @@
       "enabled": true
     },
     {
+      "id": "1754027504359",
+      "title": "优秀个人博客",
+      "icon": "User",
+      "description": "收集优秀个人博客。",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
@@ -809,15 +818,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1754027504359",
-      "title": "优秀个人博客",
-      "icon": "User",
-      "description": "收集优秀个人博客。",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
