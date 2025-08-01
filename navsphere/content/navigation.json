@@ -384,6 +384,14 @@
           "description": "博客作者位于甘肃省。",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "6c30d5cd-51bd-49cb-b409-6537847508ae",
+          "title": "青海省",
+          "icon": "FolderOpen",
+          "description": "博客作者位于青海省。",
+          "enabled": true,
+          "items": []
         }
       ]
     },
