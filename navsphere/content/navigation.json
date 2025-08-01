@@ -325,7 +325,16 @@
           "icon": "FolderOpen",
           "description": "博客作者位于河北省。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754064884138_qc1kcw5mn",
+              "title": "非凡博客",
+              "href": "https://www.yudufeifan.cn/",
+              "description": "一个自媒体人的网络赚钱、网络技术、运动健身、投资理财经验分享平台。",
+              "icon": "https://www.yudufeifan.cn/zb_users/theme/erics_cms/usr/fav.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "51eebf97-e794-460f-a91d-e08b01e73f43",
