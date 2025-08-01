@@ -249,6 +249,14 @@
               "description": "一个摸爬打滚于 IT 互联网的追梦人。",
               "icon": "/assets/img_1754049367927.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754064602328_uji3s5mwo",
+              "title": "流浪天下",
+              "href": "https://maie.name/",
+              "description": "背包行走，流浪天下。行走的日子，我只是天堂的过客。户外背包徒步旅行原创博客。",
+              "icon": "https://maie.name/favicon-32x32.png",
+              "enabled": true
             }
           ]
         },
