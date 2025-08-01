@@ -97,6 +97,15 @@
       "subCategories": []
     },
     {
+      "id": "1754047876759",
+      "title": "华北地区",
+      "icon": "FolderKanban",
+      "description": "位于华北地区的博客作者，包括北京市、天津市、河北省、山西省、内蒙古自治区。",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
@@ -123,15 +132,6 @@
       ],
       "description": "",
       "enabled": true
-    },
-    {
-      "id": "1754047876759",
-      "title": "华北地区",
-      "icon": "FolderKanban",
-      "description": "位于华北地区的博客作者，包括北京市、天津市、河北省、山西省、内蒙古自治区。",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
