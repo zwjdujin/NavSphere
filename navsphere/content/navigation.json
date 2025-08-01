@@ -43,6 +43,14 @@
       "items": [],
       "subCategories": [
         {
+          "id": "04fef795-27fe-42f5-9171-5bb4236203ad",
+          "title": "浙江",
+          "icon": "Globe",
+          "description": "作者是浙江的个人博客",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "a71c62d1-1ac6-4018-b045-a27569eeab2a",
           "title": "2014 年创建",
           "icon": "Link",
@@ -58,14 +66,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "04fef795-27fe-42f5-9171-5bb4236203ad",
-          "title": "浙江",
-          "icon": "Globe",
-          "description": "作者是浙江的个人博客",
-          "enabled": true,
-          "items": []
         }
       ]
     },
