@@ -308,6 +308,14 @@
           "description": "博客作者位于河南省。",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "64dea543-b942-4449-99a1-eb46d8fbdd91",
+          "title": "湖北省",
+          "icon": "FolderOpen",
+          "description": "博客作者位于湖北省。",
+          "enabled": true,
+          "items": []
         }
       ]
     },
