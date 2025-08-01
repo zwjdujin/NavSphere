@@ -375,6 +375,14 @@
               "description": "一个自媒体人的网络赚钱、网络技术、运动健身、投资理财经验分享平台。",
               "icon": "https://www.yudufeifan.cn/zb_users/theme/erics_cms/usr/fav.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754065856355_u62qhuzsj",
+              "title": "浅浅时光",
+              "href": "https://www.imuu.cn/",
+              "description": "记录生活点滴，感悟岁月珍藏。在这里，我分享美食之旅、自驾游记，捕捉自然风光之美，见证季节变换的奇迹。",
+              "icon": "https://img.imuu.cn/uploads/202402/211708508955_65d5c71b66fbc.webp",
+              "enabled": true
             }
           ]
         },
