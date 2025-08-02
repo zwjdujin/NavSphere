@@ -203,6 +203,14 @@
               "description": "一名乡村教师的心路历程，记录一名乡村教师的工作，学习和生活。",
               "icon": "/assets/img_1754065577471.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754122615809_os1pfx0gn",
+              "title": "离梦博客",
+              "href": "https://ilimeng.cn/",
+              "description": "爱一个人，攀一座山，寻一个梦，这里是我的树洞，欢迎来到离梦博客。",
+              "icon": "https://ilimeng.cn/favicon.ico",
+              "enabled": true
             }
           ]
         },
