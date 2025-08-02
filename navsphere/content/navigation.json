@@ -1298,6 +1298,14 @@
           "description": "PM可以是產品經理、下午、Pig Man，但絕對不是Poor Man。",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1754123830574_f6b1cyx98",
+          "title": "Cyrus‘s Ship",
+          "href": "https://www.cyrusblog.net/",
+          "description": "这里记录着我日常的琐碎思考和一些有趣的事情。",
+          "icon": "https://www.cyrusblog.net/wp-content/uploads/2024/04/ship1.png.webp",
+          "enabled": true
         }
       ],
       "subCategories": [
