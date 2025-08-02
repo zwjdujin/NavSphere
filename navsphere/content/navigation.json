@@ -1008,6 +1008,14 @@
           "description": "Web程序设计，API开发，前端设计，Web站长。",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1754118948413_k31c74ubh",
+          "title": "忆往事",
+          "href": "https://zhou.ge/",
+          "description": "书已逝时光，忆旧日往事。",
+          "icon": "https://zhou.ge/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
