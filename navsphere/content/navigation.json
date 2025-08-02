@@ -1081,6 +1081,14 @@
           "description": "一个金融行业互联网人的记录与分享。",
           "icon": "https://img.oneinf.com/system%2Ficon_40x40.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754119857590_zji4ktqpg",
+          "title": "唐巧的博客",
+          "href": "https://blog.devtang.com/",
+          "description": "一个中年程序员，正在努力学习做业务。",
+          "icon": "https://blog.devtang.com/assets/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
