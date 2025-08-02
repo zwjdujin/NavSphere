@@ -332,6 +332,14 @@
               "description": "抽离自我，冷眼旁观。",
               "icon": "https://hiwannz.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754111733102_ee0dljfzw",
+              "title": "拾风草堂",
+              "href": "https://www.leolin86.com/",
+              "description": "人脑太复杂,时间过得久,记下来才是最真实的。",
+              "icon": "/assets/img_1754111705997.png",
+              "enabled": true
             }
           ]
         },
