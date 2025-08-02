@@ -56,7 +56,16 @@
       "icon": "User",
       "description": "收集优秀个人博客。",
       "enabled": false,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1754110362427_be3pjmyx8",
+          "title": "貓魚",
+          "href": "https://2cat.net/",
+          "description": "",
+          "icon": "https://2cat.net/wp-content/uploads/2025/04/cropped-01-192x192.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "a71c62d1-1ac6-4018-b045-a27569eeab2a",
