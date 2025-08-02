@@ -1250,6 +1250,14 @@
           "description": "记录各种日常、开发踩坑、设计作品展。",
           "icon": "https://cdn.jsdelivr.net/gh/ceilwoo/ceilwoo.github.io@latest//img/theme/favicon.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754123176271_nqpm29czv",
+          "title": "Hi, I Am I",
+          "href": "https://5ime.cn/",
+          "description": "人生天地之间，若白驹过隙，忽然而已。我喜欢编码，但他们不喜欢我……",
+          "icon": "https://5ime.cn/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
