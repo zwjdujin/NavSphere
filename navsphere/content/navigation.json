@@ -986,6 +986,14 @@
               "description": "研究有趣的新技术，分享运维操作，记录我的运维实战经验、问题和解决方案；敢于探索，勤于记录。",
               "icon": "https://bucket.lxnchan.cn/logo.webp",
               "enabled": true
+            },
+            {
+              "id": "site_1754125454366_4kvia8qq2",
+              "title": "喵喵小站・博客志",
+              "href": "https://www.mmbkz.cn/",
+              "description": "记录喵喵美好生活。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
