@@ -1024,6 +1024,14 @@
           "description": "书已逝时光，忆旧日往事。",
           "icon": "https://zhou.ge/favicon.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754119116000_1dcc4i2d6",
+          "title": "灰常记忆",
+          "href": "https://bestcherish.com/",
+          "description": "放弃很容易，但坚持一定很酷。",
+          "icon": "https://bestcherish.com/image/favicon-96x96.png",
+          "enabled": true
         }
       ],
       "subCategories": [
