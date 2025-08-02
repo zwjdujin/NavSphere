@@ -251,7 +251,16 @@
           "icon": "FolderOpen",
           "description": "博客作者位于广西壮族自治区。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754108671115_vcchztdhm",
+              "title": "懿古今",
+              "href": "https://www.yigujin.cn/",
+              "description": "提供微信教程、微信名字、微信昵称、微信问题、WPS教程、蚂蚁庄园答案、蚂蚁新村答案、神奇海洋答案等知识的个人博客网站！",
+              "icon": "https://www.yigujin.cn/favicon.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "2d066a24-503f-4b8c-ba7f-59f39aa190e8",
