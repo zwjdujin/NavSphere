@@ -140,6 +140,14 @@
               "description": "分享缙哥哥的中医药心得、武术笔记、趣闻杂谈、软件分享、无损音乐、视频短片、技术教程、摄影图片、旅游攻略、购物优惠。",
               "icon": "/assets/img_1754028098164.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754109180820_rlcaig3gr",
+              "title": "随风沐虐",
+              "href": "https://www.munue.com/",
+              "description": "记录个人生活与情感，读书轶闻与感悟，信息技术与服务，社会万象与评论，网海精华与拾趣的独立博客。",
+              "icon": "https://www.munue.com/wp-content/uploads/2022/06/cropped-d40d435f12-192x192.jpg",
+              "enabled": true
             }
           ]
         },
