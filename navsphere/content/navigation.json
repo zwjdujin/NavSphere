@@ -547,6 +547,14 @@
               "description": "人人毒我，我毒人人。",
               "icon": "/assets/img_1754110835207.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754111961988_3k19x76wi",
+              "title": "林羽凡网",
+              "href": "https://www.linyufan.com/",
+              "description": "勤勤恳恳写日记的普通人。",
+              "icon": "https://www.linyufan.com/favicon.ico",
+              "enabled": true
             }
           ]
         },
