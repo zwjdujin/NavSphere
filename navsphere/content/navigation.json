@@ -821,6 +821,14 @@
               "description": "独元殇的另一个个人小网站，用于记录自己非生活一类的一些笔记或感悟等。",
               "icon": "https://www.ccgxk.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754123403476_wk2a3rgee",
+              "title": "饭饭's Blog",
+              "href": "https://ffis.me/",
+              "description": "不忘初心，方得始终。跨越光年，归来任是你。",
+              "icon": "https://ffis.me/favicon.ico",
+              "enabled": true
             }
           ]
         },
