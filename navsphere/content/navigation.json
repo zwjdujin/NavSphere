@@ -649,6 +649,14 @@
               "description": "北漂大军中的一名带着热血、暖男、码农、奶爸等各种 buff 加成的有志青年！",
               "icon": "https://blog.lichenghao.cn/img/icp.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754120299906_n1i6x3nrx",
+              "title": "非学·派",
+              "href": "https://fxpai.com/",
+              "description": "不与偏见和痼习为伍，个人生活分享。",
+              "icon": "/assets/img_1754120295194.png",
+              "enabled": true
             }
           ]
         },
