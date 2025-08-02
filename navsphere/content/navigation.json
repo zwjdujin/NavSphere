@@ -770,6 +770,14 @@
               "description": "全心全意只为更好,争取做一个最用心的分享博客。",
               "icon": "https://www.lingtings.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754124366000_ndzdn9vhv",
+              "title": "猪哥杂记",
+              "href": "https://blog.dazhu1988.com/",
+              "description": "凡是遥远的地方对我都有一种诱惑，不是诱惑于美丽，就是诱惑于传说。",
+              "icon": "https://blog.dazhu1988.com/favicon.ico",
+              "enabled": true
             }
           ]
         },
