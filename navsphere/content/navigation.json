@@ -1322,6 +1322,14 @@
           "description": "我随性书写，自由表达，只为取悦自我；也盼着每位路过的朋友，都能寻见一处属于自己的秘密花园，静候春风。",
           "icon": "https://d-d.design/assets/favicon-lmKuKuwt.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754124125416_ben9a8i97",
+          "title": "N25H's Blog",
+          "href": "https://t.arae.cc/",
+          "description": "迷失的人迷失了，相逢的人会再相逢。",
+          "icon": "https://t.arae.cc/wp-content/themes/MZ06/assets/img/favicon.svg",
+          "enabled": true
         }
       ],
       "subCategories": [
