@@ -534,6 +534,14 @@
               "description": "予怀望幕帘，夕照碧云边。漾彩入晚风，花开青山远。",
               "icon": "https://www.iyuxiyang.com/apple-touch-icon.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754119614104_plqaysjf9",
+              "title": "Java学习之道",
+              "href": "https://www.mmzsblog.cn/",
+              "description": "记录代码学习路上的点点滴滴！",
+              "icon": "https://www.mmzsblog.cn/skins/home/images/mmzsblog.jpg",
+              "enabled": true
             }
           ]
         },
