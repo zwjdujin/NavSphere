@@ -701,6 +701,14 @@
               "description": "春风得意马蹄疾，不信人间有别离。",
               "icon": "/assets/img_1754113288680.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754118881856_erknuw8yj",
+              "title": "串串狗xk",
+              "href": "https://www.ccgxk.com/",
+              "description": "独元殇的另一个个人小网站，用于记录自己非生活一类的一些笔记或感悟等。",
+              "icon": "https://www.ccgxk.com/favicon.ico",
+              "enabled": true
             }
           ]
         },
