@@ -703,6 +703,14 @@
               "description": "想要的都拥有，得不到的都释怀……",
               "icon": "https://www.vian.top/avatar.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754113292242_sqezanjwc",
+              "title": "宇阳",
+              "href": "https://liuyuyang.net/",
+              "description": "春风得意马蹄疾，不信人间有别离。",
+              "icon": "/assets/img_1754113288680.png",
+              "enabled": true
             }
           ]
         },
