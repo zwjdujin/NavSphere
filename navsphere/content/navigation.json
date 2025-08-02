@@ -943,6 +943,14 @@
           "description": "这里记录了我的工作经历、学习心得，以及生活中遇到的有趣的人和事。",
           "icon": "https://wsdjeg.net/apple-touch-icon.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754117992713_in9y6rof5",
+          "title": "王志勇的Blog",
+          "href": "http://www.auiou.com/",
+          "description": "Web程序设计，API开发，前端设计，Web站长。",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": [
