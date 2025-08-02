@@ -1178,6 +1178,14 @@
           "description": "80后男性，射手座，身形略高，自认为偏胖(尝试减肥中)，没有营养不良的迹象。",
           "icon": "https://huiris.com/wp-content/uploads/old/favicon.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754122044145_jrig2lp6b",
+          "title": "蚊帐",
+          "href": "https://mozz.ie/",
+          "description": "幸福往往是摸得透彻，而堇业的心却常常隐藏。",
+          "icon": "https://mozz.ie/images/icon-circle_hu768908969c558abc9c7b255e3c2af241_148709_180x180_fill_box_center_3.png",
+          "enabled": true
         }
       ],
       "subCategories": [
