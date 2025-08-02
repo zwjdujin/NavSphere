@@ -1306,6 +1306,14 @@
           "description": "这里记录着我日常的琐碎思考和一些有趣的事情。",
           "icon": "https://www.cyrusblog.net/wp-content/uploads/2024/04/ship1.png.webp",
           "enabled": true
+        },
+        {
+          "id": "site_1754123942731_9hxo4csif",
+          "title": "孤斗",
+          "href": "https://d-d.design/",
+          "description": "我随性书写，自由表达，只为取悦自我；也盼着每位路过的朋友，都能寻见一处属于自己的秘密花园，静候春风。",
+          "icon": "https://d-d.design/assets/favicon-lmKuKuwt.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
