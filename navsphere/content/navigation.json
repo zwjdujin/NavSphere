@@ -377,6 +377,14 @@
               "description": "综合性的个人博客，不仅仅局限于技术学习，还涉及生活分享。",
               "icon": "/assets/img_1754118481815.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754120092150_c5rz2wbyu",
+              "title": "小猪的窝",
+              "href": "https://ezo.biz/",
+              "description": "记录个人日常生活见闻。同时，兼用于记录一些技术经验和小技巧。",
+              "icon": "https://ezo.biz/usr/assets/images/favicon.png",
+              "enabled": true
             }
           ]
         },
