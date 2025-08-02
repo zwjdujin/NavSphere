@@ -194,6 +194,14 @@
               "description": "记录生活点滴，刻画人生轨迹。",
               "icon": "/assets/img_1754119037764.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754123639717_og44cvuxr",
+              "title": "Jason",
+              "href": "https://atjason.com/",
+              "description": "独立开发者的精进之路，分享自由职业者的生存方式。",
+              "icon": "https://atjason.com/favicon.ico",
+              "enabled": true
             }
           ]
         },
