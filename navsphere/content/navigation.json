@@ -251,6 +251,14 @@
               "description": "没有销声匿迹，我在热爱生活。",
               "icon": "https://zhuxu.asia/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754125122289_h2kcj1txb",
+              "title": "喂马劈柴",
+              "href": "https://blog.shaoxiao.net/",
+              "description": "一个媒介学习者的个人庭院。",
+              "icon": "https://blog.shaoxiao.net/wp-content/uploads/2020/12/cropped-icon-192x192.png",
+              "enabled": true
             }
           ]
         },
