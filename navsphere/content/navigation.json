@@ -518,6 +518,14 @@
               "description": "喜欢互联网冲浪，旅行，户外运动，折腾博客 ，摄影，看电影，编程，听音乐。",
               "icon": "/assets/img_1754118203811.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754118766543_glaa0bpyk",
+              "title": "惜·予夕漾",
+              "href": "https://www.iyuxiyang.com/",
+              "description": "予怀望幕帘，夕照碧云边。漾彩入晚风，花开青山远。",
+              "icon": "https://www.iyuxiyang.com/apple-touch-icon.png",
+              "enabled": true
             }
           ]
         },
