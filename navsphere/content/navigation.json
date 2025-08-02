@@ -1032,6 +1032,14 @@
           "description": "放弃很容易，但坚持一定很酷。",
           "icon": "https://bestcherish.com/image/favicon-96x96.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754119266195_cdq5kaecm",
+          "title": "Yalan’s Life 雅岚文藝博客",
+          "href": "https://yalanlife.net/",
+          "description": "本人雅岚，暗夜一族魔王之裔，地中海恶龙之妻，梦幻白夜之妖女。",
+          "icon": "/assets/img_1754119263317.png",
+          "enabled": true
         }
       ],
       "subCategories": [
