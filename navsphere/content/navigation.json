@@ -1121,6 +1121,14 @@
           "description": "我是bang，程序员，喜欢做东西。",
           "icon": "/assets/img_1754120196669.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754120436589_y2eo0dn0e",
+          "title": "风雨行者",
+          "href": "http://stuit.cn/",
+          "description": "努力学习和思考，争取多写点文章，不妄称“公知”。轻松做一名“爱好者”，不求“著名”。唯读书和旅行不可辜负。一直在路上，并认准方向。",
+          "icon": "http://stuit.cn/Xiaolu/zb_users/theme/tx_chargecms/include/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
