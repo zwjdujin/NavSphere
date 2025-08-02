@@ -1186,6 +1186,14 @@
           "description": "幸福往往是摸得透彻，而堇业的心却常常隐藏。",
           "icon": "https://mozz.ie/images/icon-circle_hu768908969c558abc9c7b255e3c2af241_148709_180x180_fill_box_center_3.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754122113363_o90i6j7yz",
+          "title": "ZWWoOoOo",
+          "href": "https://zww.me/",
+          "description": "提供或分享各种 WordPress 主题和插件、铁血联盟2 v1.13 及其相关 MOD 汉化、计算机相关应用及技巧。",
+          "icon": "https://zww.me/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
