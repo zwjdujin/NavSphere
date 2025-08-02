@@ -340,6 +340,14 @@
               "description": "人脑太复杂,时间过得久,记下来才是最真实的。",
               "icon": "/assets/img_1754111705997.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754111800497_iwpc9fsth",
+              "title": "老麦笔记",
+              "href": "https://www.iamlm.com/",
+              "description": "这里是老麦的个人博客，分享生活、热爱生活、享受生活，主打真实与平淡。",
+              "icon": "/assets/img_1754111795138.png",
+              "enabled": true
             }
           ]
         },
