@@ -72,6 +72,14 @@
           "description": "树下呷茶，酒好花新。",
           "icon": "https://xinsenz.com/wp-content/themes/Berry-wordpress/build/images/favicon.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754111454544_yoe36rvo1",
+          "title": "iTimothy",
+          "href": "https://xiaozhou.net/",
+          "description": "Timothy 的技术博客，记录技术以及生活点滴。",
+          "icon": "https://xiaozhou.net/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
