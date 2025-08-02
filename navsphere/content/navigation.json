@@ -1234,6 +1234,14 @@
           "description": "人生本该自由，乘兴而去，尽兴而归",
           "icon": "https://blog.cseve.com/wp-content/uploads/2022/11/cropped-530eb4bf59bf-192x192.webp",
           "enabled": true
+        },
+        {
+          "id": "site_1754122922169_p4dbupnoo",
+          "title": "Ceil Profile",
+          "href": "https://ceilwoo.com/",
+          "description": "记录各种日常、开发踩坑、设计作品展。",
+          "icon": "https://cdn.jsdelivr.net/gh/ceilwoo/ceilwoo.github.io@latest//img/theme/favicon.png",
+          "enabled": true
         }
       ],
       "subCategories": [
