@@ -1258,6 +1258,14 @@
           "description": "人生天地之间，若白驹过隙，忽然而已。我喜欢编码，但他们不喜欢我……",
           "icon": "https://5ime.cn/favicon.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754123240464_3vp8mq6xn",
+          "title": "米米的博客",
+          "href": "https://zhangshuqiao.org/",
+          "description": "做了一点微小的工作。",
+          "icon": "https://zhangshuqiao.org/images/favicon-32x32-next.png",
+          "enabled": true
         }
       ],
       "subCategories": [
