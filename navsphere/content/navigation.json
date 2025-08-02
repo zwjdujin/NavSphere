@@ -412,6 +412,14 @@
               "description": "这里是老麦的个人博客，分享生活、热爱生活、享受生活，主打真实与平淡。",
               "icon": "/assets/img_1754111795138.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754113586122_5ogdgyu11",
+              "title": "天一生水",
+              "href": "https://www.jiangyu.org/",
+              "description": "一蓑烟雨任平生，天一生水的个人博客。",
+              "icon": "https://www.jiangyu.org/images/icon-256.png",
+              "enabled": true
             }
           ]
         },
