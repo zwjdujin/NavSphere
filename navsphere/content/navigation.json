@@ -843,7 +843,16 @@
           "icon": "FolderOpen",
           "description": "博客作者位于黑龙江省。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754119531715_goyp7ntv0",
+              "title": "尚寂新",
+              "href": "https://shangjixin.com/",
+              "description": "记录自己的随笔与三脚猫的小技巧小笔记，折腾站点，做一些自己喜欢的东西，为自己所爱，做自己所做。欢迎大家常来玩！",
+              "icon": "https://shangjixin.com/favicon.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
