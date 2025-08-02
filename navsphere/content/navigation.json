@@ -1428,16 +1428,7 @@
           "enabled": true
         }
       ],
-      "subCategories": [
-        {
-          "id": "a71c62d1-1ac6-4018-b045-a27569eeab2a",
-          "title": "2014 年创建",
-          "icon": "Link",
-          "description": "",
-          "enabled": true,
-          "items": []
-        }
-      ]
+      "subCategories": []
     }
   ]
 }
