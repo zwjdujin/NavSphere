@@ -1194,6 +1194,14 @@
           "description": "提供或分享各种 WordPress 主题和插件、铁血联盟2 v1.13 及其相关 MOD 汉化、计算机相关应用及技巧。",
           "icon": "https://zww.me/favicon.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754122486615_58rm4pb49",
+          "title": "江寻博客",
+          "href": "https://blog.cseve.com/",
+          "description": "人生本该自由，乘兴而去，尽兴而归",
+          "icon": "https://blog.cseve.com/wp-content/uploads/2022/11/cropped-530eb4bf59bf-192x192.webp",
+          "enabled": true
         }
       ],
       "subCategories": [
