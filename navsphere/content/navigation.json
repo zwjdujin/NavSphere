@@ -1105,6 +1105,14 @@
           "description": "一个中年程序员，正在努力学习做业务。",
           "icon": "https://blog.devtang.com/assets/favicon.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754120199327_zxvjgta5c",
+          "title": "bang's blog",
+          "href": "https://blog.cnbang.net/",
+          "description": "我是bang，程序员，喜欢做东西。",
+          "icon": "/assets/img_1754120196669.png",
+          "enabled": true
         }
       ],
       "subCategories": [
