@@ -52,10 +52,10 @@
     },
     {
       "id": "1754027504359",
-      "title": "优秀个人博客",
+      "title": "未分类个人博客",
       "icon": "User",
-      "description": "收集优秀个人博客。",
-      "enabled": false,
+      "description": "还不知道博客作者是哪个省份的放这里。",
+      "enabled": true,
       "items": [
         {
           "id": "site_1754110362427_be3pjmyx8",
