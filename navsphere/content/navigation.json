@@ -1378,6 +1378,14 @@
           "description": "一名前端程序员，在做远程开发工作。",
           "icon": "https://www.xianmin.org/favicon-96x96.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754124942672_aflrhqkxe",
+          "title": "M-x Chris-An-Emacser",
+          "href": "https://chriszheng.science/",
+          "description": "一个 Emacs 爱好者的闲言碎语",
+          "icon": "https://chriszheng.science/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
