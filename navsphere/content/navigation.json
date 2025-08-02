@@ -258,6 +258,14 @@
               "description": "分享悲伤，共享快乐的网站！分享一些优质的软件，精彩的视频，动听的音乐，或优美或搞笑的图片，优秀的摄影作品，各种科普知识和实用优秀的代码，以及分享些热门的互联网资讯和福利！",
               "icon": "https://cdn.ilxtx.com/wp-content/themes/dragon/assets/images/touch-icon-iphone.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754109354099_emt4v3v2a",
+              "title": "张戈博客",
+              "href": "https://zhang.ge/",
+              "description": "关注IT运维技术及互联网的个人博客。",
+              "icon": "/assets/img_1754109351006.png",
+              "enabled": true
             }
           ]
         },
