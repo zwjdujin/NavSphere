@@ -657,6 +657,14 @@
               "description": "谈笑有鸿儒，往来无白丁。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754111588393_nx2ldfgwt",
+              "title": "拳废神域界",
+              "href": "https://qfsyj.com/",
+              "description": "看看别人过腻的生活，再给别人看看我过腻的生活。",
+              "icon": "http://blog.bri6.cn/favicon.ico",
+              "enabled": true
             }
           ]
         }
