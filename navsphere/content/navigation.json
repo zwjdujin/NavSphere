@@ -358,6 +358,14 @@
               "description": "关注与分享互联网及软件IT技术的个人博客，同时也记录个人的一路点滴。",
               "icon": "https://licoy.cn/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754109100366_mz9v5tnt6",
+              "title": "蓝鲸鱼",
+              "href": "https://pdbn.top/",
+              "description": "在知识的海洋里溺…水了…咕噜噜Ｏｏ゜゜○。○゜。",
+              "icon": "https://pdbn.top/uploads/2024/10/cropped-logo-192x192.png",
+              "enabled": true
             }
           ]
         },
