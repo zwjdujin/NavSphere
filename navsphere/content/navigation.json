@@ -88,6 +88,14 @@
               "description": "任抛星汉归园圃，留取乾坤盛酒囊。",
               "icon": "https://cdn.hutusi.com/images//site/logo-256x256.jpg",
               "enabled": true
+            },
+            {
+              "id": "site_1754118553589_xmdfye0w3",
+              "title": "威言威语",
+              "href": "https://www.weisay.com/",
+              "description": "我愿像茶，苦涩留心，清香予人。",
+              "icon": "https://www.weisay.com/blog/logo/logo.png",
+              "enabled": true
             }
           ]
         },
