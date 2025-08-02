@@ -104,6 +104,14 @@
               "description": "挨踢人，自由软件开发者 Tiandi 的技术博客。",
               "icon": "https://www.tiandiyoyo.com/wp-content/themes/tfirst/images/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754124806464_knuyhph1b",
+              "title": "晓栋XD",
+              "href": "https://xd.sh.cn/",
+              "description": "我个人是一个喜欢自己动手制作的人",
+              "icon": "https://xd.sh.cn/wp-content/uploads/2024/11/cropped-IMG_4030-192x192.jpeg",
+              "enabled": true
             }
           ]
         },
