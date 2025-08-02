@@ -802,6 +802,14 @@
               "description": "凡是遥远的地方对我都有一种诱惑，不是诱惑于美丽，就是诱惑于传说。",
               "icon": "https://blog.dazhu1988.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754125569877_2kym564ms",
+              "title": "WhiteFan",
+              "href": "https://www.baifan97.cn/",
+              "description": "不将就！不要急着赶路，去感受路。",
+              "icon": "https://www.baifan97.cn/favicon.ico",
+              "enabled": true
             }
           ]
         },
