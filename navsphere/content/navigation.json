@@ -202,6 +202,14 @@
               "description": "独立开发者的精进之路，分享自由职业者的生存方式。",
               "icon": "https://atjason.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754124079406_88burmz4j",
+              "title": "拾月",
+              "href": "https://www.skyue.com/",
+              "description": "晚来天欲雪，能饮一杯无。",
+              "icon": "/assets/img_1754124076452.png",
+              "enabled": true
             }
           ]
         },
