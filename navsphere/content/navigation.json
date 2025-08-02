@@ -875,7 +875,16 @@
           "icon": "FolderOpen",
           "description": "博客作者位于吉林省。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754121686385_4fs6ytfcm",
+              "title": "梦回故里",
+              "href": "https://www.80shihua.com/",
+              "description": "主要是他分享的php，go，java，python等编程经验。",
+              "icon": "/assets/img_1754121663528.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "94aa4d20-1e0a-4b50-8d06-3703951bc995",
