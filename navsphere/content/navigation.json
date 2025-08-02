@@ -622,6 +622,14 @@
               "description": "记录代码学习路上的点点滴滴！",
               "icon": "https://www.mmzsblog.cn/skins/home/images/mmzsblog.jpg",
               "enabled": true
+            },
+            {
+              "id": "site_1754124524102_v6b6is7cn",
+              "title": "我的飛鳥集",
+              "href": "https://fmcf.cc/",
+              "description": "這裏是我的飛鳥集與代碼世界。",
+              "icon": "https://api.fmcf.cc/api/v2/objects/avatar/q4yxd5smqxro8lfm69.png",
+              "enabled": true
             }
           ]
         },
