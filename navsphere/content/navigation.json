@@ -242,6 +242,14 @@
               "description": "操作系统和网络技术研究。",
               "icon": "/assets/img_1754108095321.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754108892004_y42hvoty7",
+              "title": "龙笑天下",
+              "href": "https://www.ilxtx.com/",
+              "description": "分享悲伤，共享快乐的网站！分享一些优质的软件，精彩的视频，动听的音乐，或优美或搞笑的图片，优秀的摄影作品，各种科普知识和实用优秀的代码，以及分享些热门的互联网资讯和福利！",
+              "icon": "https://cdn.ilxtx.com/wp-content/themes/dragon/assets/images/touch-icon-iphone.png",
+              "enabled": true
             }
           ]
         },
