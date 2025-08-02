@@ -475,7 +475,16 @@
           "icon": "FolderOpen",
           "description": "博客作者位于北京市。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754110728889_ulpo320os",
+              "title": "张洪Heo",
+              "href": "https://blog.zhheo.com/",
+              "description": "产品设计师、独立开发者、设计与科技领域自媒体博主。",
+              "icon": "https://blog.zhheo.com/img/avatar.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "8271a645-49d4-4fa3-9f00-3b02c44a3ae3",
