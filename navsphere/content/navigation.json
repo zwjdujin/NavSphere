@@ -689,6 +689,14 @@
               "description": "不与偏见和痼习为伍，个人生活分享。",
               "icon": "/assets/img_1754120295194.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754122797438_pfn2q9t8a",
+              "title": "青山小站",
+              "href": "https://blog.yanqingshan.com/",
+              "description": "一个在帝都搬砖的新时代农民工。",
+              "icon": "https://blog.yanqingshan.com/favicon.ico",
+              "enabled": true
             }
           ]
         },
