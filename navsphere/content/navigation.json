@@ -136,6 +136,14 @@
           "description": "陈二的互联网纠结笔记。",
           "icon": "/assets/img_1754113690777.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754113793442_wgyvic9cv",
+          "title": "西城往事",
+          "href": "https://xifeng.net/",
+          "description": "永远相信，美好的事情即将发生。",
+          "icon": "/assets/img_1754113789666.png",
+          "enabled": true
         }
       ],
       "subCategories": [
