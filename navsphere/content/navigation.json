@@ -1346,6 +1346,14 @@
           "description": "迷失的人迷失了，相逢的人会再相逢。",
           "icon": "https://t.arae.cc/wp-content/themes/MZ06/assets/img/favicon.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1754124434299_fw3ujb44c",
+          "title": "随心而记",
+          "href": "https://www.mihouo.com/",
+          "description": "遇事不决，可问春风；春风不语，万物随心。",
+          "icon": "https://www.mihouo.com/favicon/favicon-light-32.png",
+          "enabled": true
         }
       ],
       "subCategories": [
