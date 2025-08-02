@@ -120,6 +120,14 @@
           "description": "VeryJack 的个人空间",
           "icon": "/assets/img_1754113184426.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754113540204_yl5x7c0qe",
+          "title": "土木坛子",
+          "href": "http://tumutanzi.com/",
+          "description": "和光同尘、与时舒卷。",
+          "icon": "/assets/img_1754113536353.png",
+          "enabled": true
         }
       ],
       "subCategories": [
