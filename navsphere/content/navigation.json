@@ -96,6 +96,14 @@
           "description": "我还是在某天决定重新写好九十九封信，出于一种美好的愿望，也由一个学长的感慨而发。我要过去的当做过去怀念，让现在的去珍惜。",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1754112046143_7aehg2d3o",
+          "title": "蔷薇角落",
+          "href": "https://qq.md/",
+          "description": "在蔷薇的角落里，倾诉那些不言而喻的情绪与无奈。",
+          "icon": "https://qq.md/%E4%B8%BB%E9%A2%98/%E6%9D%82%E8%AE%B0/%E8%B5%84%E6%BA%90/favicon.png",
+          "enabled": true
         }
       ],
       "subCategories": [
