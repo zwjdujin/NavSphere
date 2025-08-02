@@ -1274,6 +1274,14 @@
           "description": "做了一点微小的工作。",
           "icon": "https://zhangshuqiao.org/images/favicon-32x32-next.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754123508569_7wqcjxwxx",
+          "title": "冬有枯木",
+          "href": "https://blog.jellyw.com/",
+          "description": "暂无总结",
+          "icon": "https://blog.jellyw.com/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
