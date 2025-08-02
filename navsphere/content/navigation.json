@@ -144,6 +144,14 @@
           "description": "永远相信，美好的事情即将发生。",
           "icon": "/assets/img_1754113789666.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754113922774_2yv4rduj4",
+          "title": "林海草原",
+          "href": "https://lhcy.org/",
+          "description": "愿我经历的苦难你不要经历，愿我已有的幸福你触手可及。",
+          "icon": "/assets/img_1754113920098.png",
+          "enabled": true
         }
       ],
       "subCategories": [
