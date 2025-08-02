@@ -266,6 +266,14 @@
               "description": "关注IT运维技术及互联网的个人博客。",
               "icon": "/assets/img_1754109351006.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754109877726_c3no3gjv4",
+              "title": "见字如面",
+              "href": "https://hiwannz.com/",
+              "description": "抽离自我，冷眼旁观。",
+              "icon": "https://hiwannz.com/favicon.ico",
+              "enabled": true
             }
           ]
         },
