@@ -1282,6 +1282,14 @@
           "description": "暂无总结",
           "icon": "https://blog.jellyw.com/favicon.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754123586785_stixlgn71",
+          "title": "Mr. PM 下午先生",
+          "href": "https://mrpm.cc/",
+          "description": "PM可以是產品經理、下午、Pig Man，但絕對不是Poor Man。",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": [
