@@ -208,7 +208,16 @@
           "icon": "FolderOpen",
           "description": "博客作者位于山东省。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754110031040_etqso8559",
+              "title": "FROYO's Blog",
+              "href": "https://www.izhuyue.com/",
+              "description": "把握现在，拥抱未来。",
+              "icon": "/assets/img_1754110027910.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "4367e806-df06-4468-a1b9-752512ad4967",
