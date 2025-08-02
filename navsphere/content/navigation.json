@@ -1145,6 +1145,14 @@
           "description": "一个注重原创的个人文学博客网站，以文字刻下逝去的韶华，用青春谱写寻梦的日子！",
           "icon": "https://www.mhcf.net/mhcf.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754121038737_elrjxbq71",
+          "title": "Huiris's Blog",
+          "href": "https://huiris.com/",
+          "description": "80后男性，射手座，身形略高，自认为偏胖(尝试减肥中)，没有营养不良的迹象。",
+          "icon": "https://huiris.com/wp-content/uploads/old/favicon.png",
+          "enabled": true
         }
       ],
       "subCategories": [
