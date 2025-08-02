@@ -429,7 +429,16 @@
           "icon": "FolderOpen",
           "description": "博客作者位于重庆市。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754118709980_5w7ghbf3n",
+              "title": "Kevin's",
+              "href": "https://www.shephe.com/",
+              "description": "一个优雅的个人博客，记录日常见闻，也分享摄影、后期、建站等实用经验与免费资源。念念不忘，必有回响！",
+              "icon": "/assets/img_1754118707597.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "abee4770-0c62-48b6-91e3-a00153d06a91",
