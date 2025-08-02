@@ -225,6 +225,14 @@
               "description": "茶余饭后，闲情雅致。",
               "icon": "https://yayu.net/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754108098623_e6smqgy25",
+              "title": "流行的日志",
+              "href": "https://429006.com/",
+              "description": "操作系统和网络技术研究。",
+              "icon": "/assets/img_1754108095321.png",
+              "enabled": true
             }
           ]
         },
