@@ -88,6 +88,14 @@
           "description": "大致同学的博客。讨论一切他所关心的话题，包括但不仅限于主机游戏、日常生活、大连风俗、八九十年代生活怀旧。",
           "icon": "https://pewae.com/wp-content/uploads/cropped-logo-20241231-1-192x192.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754111896322_a2xln2njz",
+          "title": "九十九封信",
+          "href": "https://blog.99xin.me/",
+          "description": "我还是在某天决定重新写好九十九封信，出于一种美好的愿望，也由一个学长的感慨而发。我要过去的当做过去怀念，让现在的去珍惜。",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": [
