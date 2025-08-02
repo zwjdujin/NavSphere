@@ -628,7 +628,16 @@
           "icon": "FolderOpen",
           "description": "博客作者位于陕西省。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754109484199_bvq3m0u0d",
+              "title": "沈唁志",
+              "href": "https://qq52o.me/",
+              "description": "关注PHP开发等技术的个人博客，同时也是个人程序人生的点滴记录和时光储备。",
+              "icon": "https://qq52o.me/favicon.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "bf05ee25-5268-4595-809b-895f2f10d162",
