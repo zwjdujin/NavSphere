@@ -459,6 +459,14 @@
               "description": "人的头脑太复杂，时间过得久，有时候连自己也被自己骗了，记下来才是最真实的……",
               "icon": "https://digu.plus/usr/themes/ghost/images/favicon/64x64.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754104426481_ir2v0mu0i",
+              "title": "趣记博客",
+              "href": "https://www.quji.org/",
+              "description": "一个记录和分享生活的个人博客，也是面向广大互联网用户的分享博客，博主喜欢关注科技和互联网的发展。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
