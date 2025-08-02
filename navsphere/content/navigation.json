@@ -220,6 +220,14 @@
               "description": "阿豪运维笔记是一个记录学习碎片，分享实用技巧的个人网站。",
               "icon": "https://www.ahaoyw.com/zb_users/upload/static/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754121778164_uyu2szr25",
+              "title": "林林杂语",
+              "href": "https://www.xiaozonglin.cn/",
+              "description": "听！林林在无病呻吟！分享林林对生活的记录和思考。",
+              "icon": "https://www.xiaozonglin.cn/usr/uploads/2023/03/4114618746.png",
+              "enabled": true
             }
           ]
         },
