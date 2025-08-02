@@ -196,6 +196,14 @@
               "description": "子痕的生活记录、摄影、数码、折腾，玩物。",
               "icon": "/assets/img_1754111305319.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754112856870_gxuyw6jy2",
+              "title": "LCHNAN",
+              "href": "https://blog.lchnan.cn/",
+              "description": "目标是激励他人，感动他人，创造出值得付出时间的东西。",
+              "icon": "https://blog.lchnan.cn/wp-content/uploads/2021/05/cropped-2019_06_16_10_41_9D6E97F9-0D95-454E-B27F-2D5221744CFA-192x192.jpg",
+              "enabled": true
             }
           ]
         },
