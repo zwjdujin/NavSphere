@@ -80,6 +80,14 @@
           "description": "Timothy 的技术博客，记录技术以及生活点滴。",
           "icon": "https://xiaozhou.net/favicon.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754111534321_rsebugkcc",
+          "title": "破袜子",
+          "href": "https://pewae.com/",
+          "description": "大致同学的博客。讨论一切他所关心的话题，包括但不仅限于主机游戏、日常生活、大连风俗、八九十年代生活怀旧。",
+          "icon": "https://pewae.com/wp-content/uploads/cropped-logo-20241231-1-192x192.png",
+          "enabled": true
         }
       ],
       "subCategories": [
