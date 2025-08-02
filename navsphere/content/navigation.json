@@ -262,6 +262,14 @@
               "description": "专注于运维领域的个人技术网站。",
               "icon": "https://www.sgtms.com/content/templates/J5/Public/Images/logo_icon.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754119972664_g3jjxt5zb",
+              "title": "弋牧",
+              "href": "https://emuia.com/",
+              "description": "生在北方，长于北方，身高188CM，山东大汉，单身，戴眼镜，计算机专业！",
+              "icon": "https://emuia.com/wp-content/themes/baolog-0.4.3/favicon.ico",
+              "enabled": true
             }
           ]
         },
