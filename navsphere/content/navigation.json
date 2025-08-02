@@ -115,6 +115,14 @@
               "description": "我们都是这尘世孤独的过客，所有的跋涉，不过是为了邂逅一场高山流水的遇见！",
               "icon": "https://chenyu.me/My/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754110647051_dqw3bg4d8",
+              "title": "胡涂说",
+              "href": "https://hutusi.com/",
+              "description": "任抛星汉归园圃，留取乾坤盛酒囊。",
+              "icon": "https://cdn.hutusi.com/images//site/logo-256x256.jpg",
+              "enabled": true
             }
           ]
         },
