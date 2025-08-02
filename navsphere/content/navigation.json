@@ -64,6 +64,14 @@
           "description": "",
           "icon": "https://2cat.net/wp-content/uploads/2025/04/cropped-01-192x192.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754110408453_5jd58pla2",
+          "title": "Xinsenz茶話",
+          "href": "https://xinsenz.com/",
+          "description": "树下呷茶，酒好花新。",
+          "icon": "https://xinsenz.com/wp-content/themes/Berry-wordpress/build/images/favicon.png",
+          "enabled": true
         }
       ],
       "subCategories": [
