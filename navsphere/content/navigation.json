@@ -333,6 +333,14 @@
               "description": "一个持续更新的个人博客，记录生活、工作、爱好的点点滴滴。与美景美食相伴，不负时光，爱美食，爱美景！",
               "icon": "https://aibofan.com/wp-content/uploads/2024/04/cropped-20240420_065933-192x192.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754108508805_sx16fftbm",
+              "title": "憧憬点滴记忆",
+              "href": "https://licoy.cn/",
+              "description": "关注与分享互联网及软件IT技术的个人博客，同时也记录个人的一路点滴。",
+              "icon": "https://licoy.cn/favicon.ico",
+              "enabled": true
             }
           ]
         },
