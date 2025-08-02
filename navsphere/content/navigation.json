@@ -128,6 +128,14 @@
           "description": "和光同尘、与时舒卷。",
           "icon": "/assets/img_1754113536353.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754113693354_7ttqjasqe",
+          "title": "小陈故事",
+          "href": "https://www.chener.net/",
+          "description": "陈二的互联网纠结笔记。",
+          "icon": "/assets/img_1754113690777.png",
+          "enabled": true
         }
       ],
       "subCategories": [
