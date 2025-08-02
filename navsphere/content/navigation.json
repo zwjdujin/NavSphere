@@ -409,6 +409,14 @@
               "description": "记录个人日常生活见闻。同时，兼用于记录一些技术经验和小技巧。",
               "icon": "https://ezo.biz/usr/assets/images/favicon.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754122723057_jgshlbv6w",
+              "title": "Frost's Blog",
+              "href": "https://frostming.com/",
+              "description": "平时喜欢折腾技术，写写技术文章。也是个开源爱好者。",
+              "icon": "https://frostming.com/favicon/favicon-180x180.png",
+              "enabled": true
             }
           ]
         },
