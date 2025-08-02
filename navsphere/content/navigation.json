@@ -469,6 +469,14 @@
               "description": "云上的编程屋",
               "icon": "https://zl88.net/img/zl88.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754117712376_qbi0jdhet",
+              "title": "陈锐同学",
+              "href": "https://www.chenrui.com/",
+              "description": "这是一个随心所欲而不逾矩的地方，是映照着自己喜怒哀乐的一面镜子。",
+              "icon": "https://www.chenrui.com/favicon.ico",
+              "enabled": true
             }
           ]
         },
