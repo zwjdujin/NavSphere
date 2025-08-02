@@ -483,6 +483,14 @@
               "description": "产品设计师、独立开发者、设计与科技领域自媒体博主。",
               "icon": "https://blog.zhheo.com/img/avatar.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754110895306_3l7hskn85",
+              "title": "牛犊日记",
+              "href": "http://www.playcase.com/",
+              "description": "人人毒我，我毒人人。",
+              "icon": "/assets/img_1754110835207.png",
+              "enabled": true
             }
           ]
         },
