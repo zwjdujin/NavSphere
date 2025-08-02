@@ -305,6 +305,14 @@
               "description": "把握现在，拥抱未来。",
               "icon": "/assets/img_1754110027910.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754112966117_7lusjz167",
+              "title": "SGTMS",
+              "href": "https://www.sgtms.com/",
+              "description": "专注于运维领域的个人技术网站。",
+              "icon": "https://www.sgtms.com/content/templates/J5/Public/Images/logo_icon.png",
+              "enabled": true
             }
           ]
         },
