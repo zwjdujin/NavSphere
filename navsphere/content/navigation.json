@@ -255,6 +255,14 @@
               "description": "平面设计师的博客。",
               "icon": "https://loomob.com/images/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754112797887_1u2tk7xfh",
+              "title": "阿豪运维笔记",
+              "href": "https://www.ahaoyw.com/",
+              "description": "阿豪运维笔记是一个记录学习碎片，分享实用技巧的个人网站。",
+              "icon": "https://www.ahaoyw.com/zb_users/upload/static/favicon.ico",
+              "enabled": true
             }
           ]
         },
