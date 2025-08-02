@@ -647,6 +647,14 @@
               "description": "草根站长学习、交流、分享、服务。",
               "icon": "https://p.gxtesjy.com/wp-content/uploads/2017/01/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754112115708_y2orur67k",
+              "title": "Vian",
+              "href": "https://www.vian.top/",
+              "description": "想要的都拥有，得不到的都释怀……",
+              "icon": "https://www.vian.top/avatar.ico",
+              "enabled": true
             }
           ]
         },
