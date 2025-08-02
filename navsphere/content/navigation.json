@@ -1129,6 +1129,14 @@
           "description": "努力学习和思考，争取多写点文章，不妄称“公知”。轻松做一名“爱好者”，不求“著名”。唯读书和旅行不可辜负。一直在路上，并认准方向。",
           "icon": "http://stuit.cn/Xiaolu/zb_users/theme/tx_chargecms/include/favicon.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754120597811_8db3ppbfe",
+          "title": "尚磊的博客",
+          "href": "https://shanglei.net/",
+          "description": "记录和分享生活中的点滴发现\n\n",
+          "icon": "/assets/img_1754120595761.png",
+          "enabled": true
         }
       ],
       "subCategories": [
