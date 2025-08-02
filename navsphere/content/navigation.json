@@ -325,6 +325,14 @@
               "description": "提供微信教程、微信名字、微信昵称、微信问题、WPS教程、蚂蚁庄园答案、蚂蚁新村答案、神奇海洋答案等知识的个人博客网站！",
               "icon": "https://www.yigujin.cn/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754110954606_xej005z4i",
+              "title": "老D博客",
+              "href": "https://laod.cn/",
+              "description": "专注于推荐优秀软件、APP应用和互联网资源；以及各种有意思的内容，你需要的这里都有！",
+              "icon": "https://laod.cn/wp-content/uploads/2021/03/favicon.ico",
+              "enabled": true
             }
           ]
         },
