@@ -477,6 +477,14 @@
               "description": "这是一个随心所欲而不逾矩的地方，是映照着自己喜怒哀乐的一面镜子。",
               "icon": "https://www.chenrui.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754118207248_2826b1p32",
+              "title": "1900‘Blog",
+              "href": "https://1900.live/",
+              "description": "喜欢互联网冲浪，旅行，户外运动，折腾博客 ，摄影，看电影，编程，听音乐。",
+              "icon": "/assets/img_1754118203811.png",
+              "enabled": true
             }
           ]
         },
