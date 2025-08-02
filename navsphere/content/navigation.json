@@ -96,6 +96,14 @@
               "description": "我愿像茶，苦涩留心，清香予人。",
               "icon": "https://www.weisay.com/blog/logo/logo.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754123023022_kncavob9g",
+              "title": "千丝海阁",
+              "href": "https://www.tiandiyoyo.com/",
+              "description": "挨踢人，自由软件开发者 Tiandi 的技术博客。",
+              "icon": "https://www.tiandiyoyo.com/wp-content/themes/tfirst/images/favicon.ico",
+              "enabled": true
             }
           ]
         },
