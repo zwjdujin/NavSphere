@@ -337,6 +337,14 @@
               "description": "一蓑烟雨任平生，天一生水的个人博客。",
               "icon": "https://www.jiangyu.org/images/icon-256.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754118386007_slzh7j69x",
+              "title": "小王子",
+              "href": "https://www.wanghao.me/",
+              "description": "聆听小王子，守望成长，静待花开。",
+              "icon": "https://www.wanghao.me/favicon.ico",
+              "enabled": true
             }
           ]
         },
