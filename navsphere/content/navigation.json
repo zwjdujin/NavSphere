@@ -145,6 +145,14 @@
               "description": "吴侬软语、小桥流水，最美在苏州。",
               "icon": "https://pwsz.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754122560447_3u1dadz73",
+              "title": "神楽坂玉兔",
+              "href": "https://www.54yt.net/",
+              "description": "几年前踏上火车那一刻都还没有意识到，从此故乡只有冬夏，再无春秋。",
+              "icon": "https://www.54yt.net/t2.jpg",
+              "enabled": true
             }
           ]
         },
