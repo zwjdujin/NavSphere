@@ -170,6 +170,14 @@
               "description": "记录个人生活与情感，读书轶闻与感悟，信息技术与服务，社会万象与评论，网海精华与拾趣的独立博客。",
               "icon": "https://www.munue.com/wp-content/uploads/2022/06/cropped-d40d435f12-192x192.jpg",
               "enabled": true
+            },
+            {
+              "id": "site_1754119043001_gw910t26g",
+              "title": "阿和憩站",
+              "href": "https://www.aheqiz.com/",
+              "description": "记录生活点滴，刻画人生轨迹。",
+              "icon": "/assets/img_1754119037764.png",
+              "enabled": true
             }
           ]
         },
