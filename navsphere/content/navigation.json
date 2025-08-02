@@ -571,6 +571,14 @@
               "description": "勤勤恳恳写日记的普通人。",
               "icon": "https://www.linyufan.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754112735124_avjv63s3r",
+              "title": "赵阿卷",
+              "href": "https://blog.zwying.com/",
+              "description": "一个95后少年，花有重开日，人无再少年。",
+              "icon": "https://blog.zwying.com/favicon.ico",
+              "enabled": true
             }
           ]
         },
