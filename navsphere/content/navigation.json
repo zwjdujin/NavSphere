@@ -1362,6 +1362,14 @@
           "description": "遇事不决，可问春风；春风不语，万物随心。",
           "icon": "https://www.mihouo.com/favicon/favicon-light-32.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754124600499_kz5svvndb",
+          "title": "贤民的博客",
+          "href": "https://www.xianmin.org/",
+          "description": "一名前端程序员，在做远程开发工作。",
+          "icon": "https://www.xianmin.org/favicon-96x96.png",
+          "enabled": true
         }
       ],
       "subCategories": [
