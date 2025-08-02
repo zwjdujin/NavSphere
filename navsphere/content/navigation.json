@@ -918,6 +918,14 @@
               "description": "一个记录和分享生活的个人博客，也是面向广大互联网用户的分享博客，博主喜欢关注科技和互联网的发展。",
               "icon": "/assets/img_1754104474056.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754125658052_3tr0sbn7s",
+              "title": "夜街尘",
+              "href": "https://aprilforest.cn/",
+              "description": "喜欢瞎讲究，爱钻牛角尖，凡事要寻求最优解，否则饭吃不香觉睡不着。",
+              "icon": "https://aprilforest.cn/images/newicon.png",
+              "enabled": true
             }
           ]
         },
