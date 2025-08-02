@@ -112,6 +112,14 @@
           "description": "知性有趣，简单生活。",
           "icon": "/assets/img_1754112458221.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754113186348_prinz3if9",
+          "title": "Jack‘s Space",
+          "href": "https://veryjack.com/",
+          "description": "VeryJack 的个人空间",
+          "icon": "/assets/img_1754113184426.png",
+          "enabled": true
         }
       ],
       "subCategories": [
