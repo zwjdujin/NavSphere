@@ -1137,6 +1137,14 @@
           "description": "记录和分享生活中的点滴发现\n\n",
           "icon": "/assets/img_1754120595761.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754120966310_my9o2anqg",
+          "title": "梦幻辰风",
+          "href": "https://www.mhcf.net/",
+          "description": "一个注重原创的个人文学博客网站，以文字刻下逝去的韶华，用青春谱写寻梦的日子！",
+          "icon": "https://www.mhcf.net/mhcf.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
