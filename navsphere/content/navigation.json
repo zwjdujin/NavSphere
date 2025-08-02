@@ -345,6 +345,14 @@
               "description": "聆听小王子，守望成长，静待花开。",
               "icon": "https://www.wanghao.me/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754118483709_p8od4rh7l",
+              "title": "王润泽博客",
+              "href": "https://wangrunze.com/",
+              "description": "综合性的个人博客，不仅仅局限于技术学习，还涉及生活分享。",
+              "icon": "/assets/img_1754118481815.png",
+              "enabled": true
             }
           ]
         },
