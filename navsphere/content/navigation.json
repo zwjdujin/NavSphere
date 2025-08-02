@@ -1073,6 +1073,14 @@
           "description": "本人雅岚，暗夜一族魔王之裔，地中海恶龙之妻，梦幻白夜之妖女。",
           "icon": "/assets/img_1754119263317.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754119792228_jm69a7ppu",
+          "title": "俍注",
+          "href": "https://oneinf.com/",
+          "description": "一个金融行业互联网人的记录与分享。",
+          "icon": "https://img.oneinf.com/system%2Ficon_40x40.png",
+          "enabled": true
         }
       ],
       "subCategories": [
