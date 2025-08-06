@@ -1458,6 +1458,14 @@
           "description": "李学江个人博客。",
           "icon": "https://lixuejiang.oss-cn-hangzhou.aliyuncs.com/jiang/2025/01/20250109202110548.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754487383304_6z6u0sp30",
+          "title": "楼船",
+          "href": "https://fravilion.top/",
+          "description": "Black. White. Text.",
+          "icon": "/assets/favicon_1754487363329.png",
+          "enabled": true
         }
       ],
       "subCategories": []
