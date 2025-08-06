@@ -1027,6 +1027,14 @@
               "description": "主要是他分享的php，go，java，python等编程经验。",
               "icon": "/assets/img_1754121663528.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754487235725_2pwm7vzih",
+              "title": "三棍日记",
+              "href": "https://www.sangun.cn/",
+              "description": "三棍日记是三棍先生个人的自媒体日记博客，没太多宏图大志，核心就一个：记录。到了这个年纪，日子仿佛被按下了某种“加速键”。我想在这里，慢下来，写点东西，做点自己喜欢的事，权当是给生活这本大书，写点属于自己的“脚注”。大家好！我是——三棍先生。",
+              "icon": "/assets/favicon_1754487216652.ico",
+              "enabled": true
             }
           ]
         },
