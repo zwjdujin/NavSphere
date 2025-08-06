@@ -1052,6 +1052,14 @@
               "description": "中文独立博客常青树，极简主义、长期主义。",
               "icon": "/assets/favicon_1754486988847.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754487041431_2zwtbugko",
+              "title": "石樱灯笼博客",
+              "href": "https://blog.catscarlet.com/",
+              "description": "灵魂沉为石樱，灯笼映出暗影。",
+              "icon": "https://blog.catscarlet.com/favicon.ico",
+              "enabled": true
             }
           ]
         }
