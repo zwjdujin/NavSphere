@@ -1113,7 +1113,7 @@
       "title": "未分类个人博客",
       "icon": "User",
       "description": "还不知道博客作者是哪个省份的放这里。",
-      "enabled": false,
+      "enabled": true,
       "items": [
         {
           "id": "site_1754110362427_be3pjmyx8",
