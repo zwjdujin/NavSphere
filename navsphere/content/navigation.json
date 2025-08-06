@@ -753,6 +753,14 @@
               "description": "一个在帝都搬砖的新时代农民工。",
               "icon": "https://blog.yanqingshan.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754487284822_e1gmizmiq",
+              "title": "屠·城",
+              "href": "https://www.haomwei.com/",
+              "description": "屠夫9441的博客",
+              "icon": "/assets/favicon_1754487257334.png",
+              "enabled": true
             }
           ]
         },
