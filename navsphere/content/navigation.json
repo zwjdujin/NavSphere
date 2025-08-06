@@ -1018,6 +1018,14 @@
               "description": "记录喵喵美好生活。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754487448445_f9u6ypa7m",
+              "title": "磊磊落落",
+              "href": "https://leileiluoluo.com/",
+              "description": "用于记录内心波澜、分享读书感想、思考人生哲学、关注社会百态和梳理计算机专业知识的纯原创站点。",
+              "icon": "https://leileiluoluo.com/favicon.ico",
+              "enabled": true
             }
           ]
         },
