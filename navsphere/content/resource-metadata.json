@@ -1,31 +1,5 @@
 {
   "commit": "5f6a88320da27c4d284996d498842934ad1d8d19",
   "generated": "Sun, 11 Feb 2024 21:48:22 GMT",
-  "metadata": [
-    {
-      "commit": "ce9547d194e006e5ffa84fdeb66c90531d888a7e",
-      "hash": "ce9547d194e006e5ffa84fdeb66c90531d888a7e",
-      "path": "/assets/img_1737529713172.png"
-    },
-    {
-      "commit": "3a9215665600e7d70b2391b54e3bd20ad8971b46",
-      "hash": "3a9215665600e7d70b2391b54e3bd20ad8971b46",
-      "path": "/assets/img_1736922499401.png"
-    },
-    {
-      "commit": "a61a7c18171006d636866421b8e936fac6ba453b",
-      "hash": "a61a7c18171006d636866421b8e936fac6ba453b",
-      "path": "/assets/img_1736922262462.png"
-    },
-    {
-      "commit": "b65d2d68c74aa3b82468bdc31c4db57ba9908405",
-      "hash": "b65d2d68c74aa3b82468bdc31c4db57ba9908405",
-      "path": "/assets/img_1736922080517.png"
-    },
-    {
-      "commit": "aa2232925e22812cc1d425508928c35a18bc8768",
-      "hash": "aa2232925e22812cc1d425508928c35a18bc8768",
-      "path": "/assets/img_1736913249592.png"
-    }
-  ]
+  "metadata": []
 }
