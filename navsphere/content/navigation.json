@@ -1044,6 +1044,14 @@
               "description": "记录自己的随笔与三脚猫的小技巧小笔记，折腾站点，做一些自己喜欢的东西，为自己所爱，做自己所做。欢迎大家常来玩！",
               "icon": "https://shangjixin.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754487011718_k4bbn98ga",
+              "title": "Fatesinger",
+              "href": "https://fatesinger.com/",
+              "description": "中文独立博客常青树，极简主义、长期主义。",
+              "icon": "/assets/favicon_1754486988847.png",
+              "enabled": true
             }
           ]
         }
