@@ -934,6 +934,14 @@
               "description": "春风得意马蹄疾，不信人间有别离。记录所学知识，缩短和大神的差距！",
               "icon": "https://res.liuyuyang.net/usr/images/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754539103398_cp4kwflxc",
+              "title": "生活文案记录分享",
+              "href": "https://www.cshcp.com/",
+              "description": "自由笔触，记录分享生活中的碎碎念念，和收集到的朋友圈文案以及自己网站建设时摸索出来的一些 seo 优化的知识和技巧！",
+              "icon": "/assets/favicon_1754539072949.png",
+              "enabled": true
             }
           ]
         },
