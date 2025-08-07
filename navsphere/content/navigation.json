@@ -169,6 +169,14 @@
               "description": "几年前踏上火车那一刻都还没有意识到，从此故乡只有冬夏，再无春秋。",
               "icon": "https://www.54yt.net/t2.jpg",
               "enabled": true
+            },
+            {
+              "id": "site_1754544308185_av5ltr2li",
+              "title": "南蛮子·懋和",
+              "href": "https://www.dao.js.cn/",
+              "description": "懋和道人-李懋和，俗名李栋梁。书法、国画爱好者，互联网安全与前端建设者。",
+              "icon": "/assets/favicon_1754544260954.png",
+              "enabled": true
             }
           ]
         },
