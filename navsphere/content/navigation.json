@@ -2420,6 +2420,14 @@
           "description": "你好我是森林，DemoChen，一张肆无忌惮的脸，一颗桀骜不驯的心。每周一本书，记录自己阅读、数据、产品和效率相关。",
           "icon": "/assets/favicon_1754567923168.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754568139785_f0kz9z1c5",
+          "title": "风彦疯语",
+          "href": "https://www.dufengyan.com/",
+          "description": "旅行，摄影，单车，历史，武术 - 分享美好生活！",
+          "icon": "/assets/favicon_1754568010785.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
