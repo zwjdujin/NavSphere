@@ -513,6 +513,14 @@
               "description": "SEEGA 的个人博客，记录生活点滴、感悟思考、兴趣爱好。把成长中的每一个瞬间，都可以用文字、图片、视频等形式记录在博客里。以后翻阅起来，满满的都是回忆。也是思想交流平台，发表观点，收获反馈，结交同好。还是学习帮手，关注专业人士获取知识。",
               "icon": "/assets/favicon_1754543373755.jpg",
               "enabled": true
+            },
+            {
+              "id": "site_1754543448725_12ae7vh6d",
+              "title": "宋子宪博客",
+              "href": "https://songzixian.com/",
+              "description": "一个 java 程序员的高质量博客网站，本站主要保存本人在学习中和工作中的实战 java 笔记和前端笔记以及软件工具的使用和提供资料工具免费下载的java博客！",
+              "icon": "/assets/favicon_1754543423776.ico",
+              "enabled": true
             }
           ]
         },
