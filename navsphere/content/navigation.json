@@ -2164,6 +2164,14 @@
           "description": "耳朵的主人，以期刊的形式分享歌特、厄运、朋克、流行、后摇、重金属等小众风格音乐的电台博客，庆幸我还有耳朵，还可以是耳朵的主人。",
           "icon": "/assets/favicon_1754547210573.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754547331666_5vsdatgtz",
+          "title": "荒野孤灯",
+          "href": "https://www.80srz.com/",
+          "description": "记录一个平凡80后的生活日志及网络技术折腾经历的个人独立博客。我们的口号：探索无界，热爱折腾！荒野中的一盏孤灯，照亮夜里依然前行的人们！",
+          "icon": "/assets/favicon_1754547319732.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
