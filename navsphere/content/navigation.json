@@ -2196,6 +2196,14 @@
           "description": "记录一个平凡80后的生活日志及网络技术折腾经历的个人独立博客。我们的口号：探索无界，热爱折腾！荒野中的一盏孤灯，照亮夜里依然前行的人们！",
           "icon": "/assets/favicon_1754547319732.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754547562151_v40ac9kor",
+          "title": "LMS",
+          "href": "https://lms.im/",
+          "description": "83 年的老大叔，敝姓林。自娱自乐，不亦乐乎！博客还存在除了自娱自乐，就是放了这么多年的那点舍不得了。",
+          "icon": "/assets/favicon_1754547526414.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
