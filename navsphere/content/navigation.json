@@ -2428,6 +2428,14 @@
           "description": "旅行，摄影，单车，历史，武术 - 分享美好生活！",
           "icon": "/assets/favicon_1754568010785.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754568225202_663ns4e0e",
+          "title": "云帆",
+          "href": "https://www.yun.fan/",
+          "description": "用文字表达自己，填充自己，武装自己。",
+          "icon": "/assets/favicon_1754568156842.png",
+          "enabled": true
         }
       ],
       "subCategories": []
