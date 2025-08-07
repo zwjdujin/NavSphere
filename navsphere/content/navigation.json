@@ -1932,6 +1932,14 @@
           "description": "呆哥「 阿呆、王富贵 」，曾持有 bo.ke、nm.sl、aw.sl 等。我在人间凑数的日子，愿望是死后将尸体运到太空漂浮，并期待被外星人捕获将我复活。",
           "icon": "/assets/favicon_1754544556506.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754544968941_tvfhcrcp1",
+          "title": "老张博客",
+          "href": "https://laozhang.org/",
+          "description": "老张博客，一个记录生活随笔日志的个人博客。融合个人生活随笔、电脑网络使用技巧、实用资源分享、网站建设教程攻略等相关内容。",
+          "icon": "/assets/favicon_1754544943401.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
