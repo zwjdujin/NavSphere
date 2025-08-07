@@ -582,6 +582,14 @@
               "description": "一个坚守在食品安全质量管理岗位的 80 后。",
               "icon": "https://www.zhangmingming.cn/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754547879635_itnigt1tj",
+              "title": "慢读时光",
+              "href": "https://wujie.me/",
+              "description": "慢读时光博客，记录平凡生活，分享读书感悟，探索生活中的美好瞬间。",
+              "icon": "/assets/favicon_1754547865313.png",
+              "enabled": true
             }
           ]
         },
