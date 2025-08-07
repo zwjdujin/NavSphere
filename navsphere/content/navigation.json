@@ -330,6 +330,14 @@
               "description": "这里是 fuXes 的个人网站，这里有 fuXes 的胡言乱语、读书感想，以及日常记录。",
               "icon": "/assets/favicon_1754546270242.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754546593990_2mznni34j",
+              "title": "二丫讲梵",
+              "href": "https://wiki.eryajf.net/",
+              "description": "李启龙，一名九零后中年人，运维界的小学生。",
+              "icon": "https://wiki.eryajf.net/img/favicon.ico",
+              "enabled": true
             }
           ]
         },
