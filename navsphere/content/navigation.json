@@ -2076,6 +2076,14 @@
           "description": "工作，生活，思考。",
           "icon": "/assets/favicon_1754546422570.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754546683596_nwy1e2a88",
+          "title": "Rolen's Blog",
+          "href": "https://rolen.wiki/",
+          "description": "我是Rolen，我会用一生的时间，去体验、发现、创造；以开源自我的方式，向宇宙万物发送我的频率；借时间统计方法，度过自己眼中高质量的一生。",
+          "icon": "https://rolen.wiki/wp-content/uploads/2024/09/cropped-rolen-logo-black-2-192x192.png",
+          "enabled": true
         }
       ],
       "subCategories": []
