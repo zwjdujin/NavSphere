@@ -2004,6 +2004,14 @@
           "description": "一个秃发机械汪的博客，在此分享一些我的所见所闻，也会有收录一些我觉得有价值的雄文。",
           "icon": "/assets/favicon_1754545539982.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754545616000_zef34id3o",
+          "title": "Keyle's Blog",
+          "href": "https://vrast.cn/",
+          "description": "在这里记录一些偶尔冒出来转眼就会忘的灵感。",
+          "icon": "/assets/favicon_1754545583871.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
