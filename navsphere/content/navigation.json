@@ -497,6 +497,14 @@
               "description": "本博客用于记录我的思想变化，因此前后观点有变亦属正常。",
               "icon": "https://i0.wp.com/www.hxueh.net/wp-content/uploads/2020/02/giochi.png?fit=32%2C30&#038;ssl=1",
               "enabled": true
+            },
+            {
+              "id": "site_1754543220231_ml6r84nv0",
+              "title": "海若",
+              "href": "https://hyruo.com/",
+              "description": "我白天是一名的小学生，晚上是一名有抱负的魔术师，这是我的网站。 我住在广东，有一个调皮的弟弟。 我平时喜欢画画，还有玩贴纸。",
+              "icon": "https://hyruo.com/wp-content/uploads/2025/03/cropped-avatar-1-32x32.webp",
+              "enabled": true
             }
           ]
         },
