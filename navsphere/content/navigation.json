@@ -1755,6 +1755,14 @@
           "description": "90后，已婚中年老男人，狗都不做的 Windows 客户端开发一枚。",
           "icon": "/assets/favicon_1754541226826.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754543361766_s8b2935kl",
+          "title": "叶泯希",
+          "href": "https://blog.418121.xyz/",
+          "description": "叶泯希的个人博客，本意为了折腾，实际为了纪录点滴,很幸运能与你相遇，共创美好回忆。",
+          "icon": "/assets/favicon_1754543325989.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
