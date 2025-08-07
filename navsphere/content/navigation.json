@@ -529,6 +529,14 @@
               "description": "我们在大学相恋，经过六年多的爱情长跑，已步入婚姻的殿堂。",
               "icon": "/assets/favicon_1754543464688.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754543726711_7xkurrf57",
+              "title": "大雄日记",
+              "href": "https://199508.com/",
+              "description": "95后文艺男；清远人在妖都工作，朝十晚六+N；牛马的一生无需多解释。",
+              "icon": "/assets/favicon_1754543690299.ico",
+              "enabled": true
             }
           ]
         },
