@@ -387,6 +387,14 @@
               "description": "养养猫、钓钓鱼、遛遛娃。",
               "icon": "/assets/favicon_1754546752091.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754546878260_v1nbcnrv9",
+              "title": "陶小桃 Blog",
+              "href": "https://www.52txr.cn/",
+              "description": "热衷于分享技术和日常生活的机械专业小哥哥，捣鼓机械设计、计算机视觉和深度学习。网站还涉及到网页设计以及 SEO 相关博文。",
+              "icon": "https://img.hjyl.org/uploads/2019/10/cropped-about-me-32x32.png",
+              "enabled": true
             }
           ]
         },
