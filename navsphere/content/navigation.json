@@ -2436,6 +2436,14 @@
           "description": "用文字表达自己，填充自己，武装自己。",
           "icon": "/assets/favicon_1754568156842.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754568288460_b0pcvwa0r",
+          "title": "非学·派",
+          "href": "https://fxpai.com/",
+          "description": "这是一个由我个人懒散运营的独立博客，也是我顽固自留地、执念角斗场、自说自话的三角地。一个人要从属于一个派别（或将自己分为某类），则必然与其偏见和痼习为伍。不属于、不依附，无奈时安守愚钝，躬耕自省。这有用的东西不多，就当交个朋友。",
+          "icon": "/assets/favicon_1754568243776.png",
+          "enabled": true
         }
       ],
       "subCategories": []
