@@ -1015,6 +1015,14 @@
               "description": "专注于网络空间安全、CTF竞赛、人工智能、机器学习技术分享和最新安全动态的个人技术博客。",
               "icon": "https://blog.devnest.top/img/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754539835555_hc7aa8q1y",
+              "title": "Andy 烧麦",
+              "href": "https://4311346.com/",
+              "description": "成熟，聪明，豁达的人什么也不问 过去，现在，将来……",
+              "icon": "/assets/favicon_1754539811769.ico",
+              "enabled": true
             }
           ]
         },
