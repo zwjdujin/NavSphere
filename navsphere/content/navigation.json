@@ -1801,6 +1801,14 @@
               "description": "Do I look like a fool？",
               "icon": "/assets/favicon_1754569826597.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754570007362_nofui1zgn",
+              "title": "大成小站",
+              "href": "http://jln.cn/",
+              "description": "爱文字，爱生活。",
+              "icon": "/assets/favicon_1754569980322.ico",
+              "enabled": true
             }
           ]
         },
