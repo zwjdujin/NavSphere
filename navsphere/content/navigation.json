@@ -1491,6 +1491,14 @@
           "description": "Black. White. Text.",
           "icon": "/assets/favicon_1754487363329.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754538762167_vovtaf9mr",
+          "title": "昭君网志",
+          "href": "https://www.luzhaojun.com/",
+          "description": "个人网志。",
+          "icon": "/assets/favicon_1754538639666.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
