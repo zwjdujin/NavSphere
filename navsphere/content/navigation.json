@@ -379,6 +379,14 @@
               "description": "一个媒介学习者的个人庭院。",
               "icon": "https://blog.shaoxiao.net/wp-content/uploads/2020/12/cropped-icon-192x192.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754546775866_38vla752l",
+              "title": "椒盐烤榴莲",
+              "href": "https://blog.mcoo.cc/",
+              "description": "养养猫、钓钓鱼、遛遛娃。",
+              "icon": "/assets/favicon_1754546752091.ico",
+              "enabled": true
             }
           ]
         },
