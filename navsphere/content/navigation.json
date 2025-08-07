@@ -1651,6 +1651,14 @@
           "description": "ZWWoOoOo 是一个关注 WordPress 和 Jagged Alliance 2 1.13 (铁血联盟2 v1.13) 的博客，提供或分享各种 WordPress 主题和插件、铁血联盟2 v1.13 及其相关 MOD 汉化、计算机相关应用及技巧。",
           "icon": "https://zww.me/favicon.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754540559707_trfilkc2k",
+          "title": "Horean's Blog",
+          "href": "https://blog.hxrch.top/",
+          "description": "Horean‘s Blog - Spread the Knowledge Wisely &amp; Widely",
+          "icon": "/assets/favicon_1754540492668.png",
+          "enabled": true
         }
       ],
       "subCategories": []
