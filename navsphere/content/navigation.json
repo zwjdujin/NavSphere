@@ -1827,6 +1827,14 @@
           "description": "欲买桂花同载酒，终不似，少年游。",
           "icon": "/assets/favicon_1754543657266.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754543749743_u8qes2rzb",
+          "title": "山炮不二",
+          "href": "https://xsinger.me/",
+          "description": "一只西去而旋转的飞鸟。",
+          "icon": "/assets/favicon_1754543738933.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
