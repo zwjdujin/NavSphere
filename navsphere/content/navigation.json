@@ -1023,6 +1023,14 @@
               "description": "成熟，聪明，豁达的人什么也不问 过去，现在，将来……",
               "icon": "/assets/favicon_1754539811769.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754539867928_g9vrscb24",
+              "title": "优世界",
+              "href": "https://usj.cc/",
+              "description": "风吹云散，云卷云舒。",
+              "icon": "https://usj.cc/favicon.ico",
+              "enabled": true
             }
           ]
         },
