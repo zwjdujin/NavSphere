@@ -1571,6 +1571,14 @@
           "description": "一个验光师和传统文化爱好者的博客。",
           "icon": "https://iliu.org/content/images/2025/08/favicon.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754539613629_lfncyefyx",
+          "title": "谢永林",
+          "href": "https://xieyonglin.com/",
+          "description": "一名程序员和企业家。我对技术的热情超越了我的职业生涯，延伸到了我的个人项目和持续学习。",
+          "icon": "https://xieyonglin.com/img/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
