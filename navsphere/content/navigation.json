@@ -1988,6 +1988,14 @@
           "description": "世人说，梅不在夏开；我却见过，一朵花，在烈日里温柔绽放，留在我心底，从未凋谢。",
           "icon": "/assets/favicon_1754545411162.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754545530351_y4ichpa87",
+          "title": "栖木的网络日志",
+          "href": "https://www.thedoga.tech/",
+          "description": "人要像树一样，树只会向上生长。",
+          "icon": "/assets/favicon_1754545504557.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
