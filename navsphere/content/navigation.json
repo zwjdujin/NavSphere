@@ -1786,7 +1786,16 @@
           "icon": "FolderOpen",
           "description": "博客作者位于甘肃省。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754569193868_ob43932oz",
+              "title": "三无青年",
+              "href": "https://www.duanxiansen.com/",
+              "description": "我是段先森！欢迎来到我的个人博客——这里记录着我的生活随想、建站折腾、技术探索和点点滴滴的思考。愿这些内容能与你产生共鸣，也欢迎你常来看看。",
+              "icon": "/assets/favicon_1754569144723.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "6c30d5cd-51bd-49cb-b409-6537847508ae",
