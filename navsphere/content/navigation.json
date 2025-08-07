@@ -1031,6 +1031,14 @@
               "description": "风吹云散，云卷云舒。",
               "icon": "https://usj.cc/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754539924359_z0lgmz6hv",
+              "title": "安静角落",
+              "href": "https://wuziya.com/",
+              "description": "我一直很矛盾，一边想在网络上虚构一个我，一边又想将真实的自己放在网上，比如本域名就是我的姓名。我其实每天上网的时间并不少，刷手机的时间也是可控的，我还是比较习惯用电脑的。每天的日子虽然……",
+              "icon": "/assets/favicon_1754539882587.ico",
+              "enabled": true
             }
           ]
         },
