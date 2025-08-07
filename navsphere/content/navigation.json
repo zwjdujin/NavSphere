@@ -465,6 +465,14 @@
               "description": "平时喜欢折腾技术，写写技术文章。也是个开源爱好者。",
               "icon": "https://frostming.com/favicon/favicon-180x180.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754540627629_folqpo2ch",
+              "title": "Ah新的生活小札",
+              "href": "https://blog.ahxin.cn/",
+              "description": "阿新，99年，男，广东。设计专业，很专业（不）。摄影、骑行、美食、怀旧、乱折腾。",
+              "icon": "https://blog.ahxin.cn/wp-content/uploads/2025/01/cropped-logo-1-192x192.png",
+              "enabled": true
             }
           ]
         },
