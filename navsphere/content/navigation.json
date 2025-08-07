@@ -1178,6 +1178,14 @@
               "description": "屠夫9441的博客",
               "icon": "/assets/favicon_1754487257334.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754567777958_yk0byoed5",
+              "title": "张洪 Heo",
+              "href": "https://blog.zhheo.com/",
+              "description": "产品设计师、独立开发者、设计与科技领域自媒体博主。",
+              "icon": "/assets/favicon_1754567756436.png",
+              "enabled": true
             }
           ]
         },
