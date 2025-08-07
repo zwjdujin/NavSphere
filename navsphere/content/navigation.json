@@ -2549,6 +2549,30 @@
           "description": "时光日志、生活、摄影，以此镌刻生活，珍藏记忆，启迪未来。",
           "icon": "https://www.timelogs.cn/usr/themes/SnapicJust640px/img/AppIcon.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754569569772_pyzevd5du",
+          "title": "唯知笔记",
+          "href": "https://note.weizwz.com/",
+          "description": "在这里，我们分享最新的技术趋势、编程技巧和开发心得，一起成长，共同进步。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_1754569634542_7fvgfh477",
+          "title": "唯知笔记",
+          "href": "https://note.weizwz.com/",
+          "description": "在这里，我们分享最新的技术趋势、编程技巧和开发心得，一起成长，共同进步。",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_1754569681858_v1indcvk1",
+          "title": "唯知笔记",
+          "href": "https://note.weizwz.com/",
+          "description": "在这里，我们分享最新的技术趋势、编程技巧和开发心得，一起成长，共同进步。",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
