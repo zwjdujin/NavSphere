@@ -1194,6 +1194,14 @@
               "description": "私人博客致力于分享 PHP 技术、经验以及生活等内容。不定时更新，欢迎订阅，一起探索编程和生活的乐趣！",
               "icon": "https://dabenshi.cn/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754567975098_z99f5q93h",
+              "title": "悠FM | 慢享生活！",
+              "href": "https://yufm.com/",
+              "description": "悠FM, 记录美好生活的个人休闲博客，内容包括生活、兴趣、学习等方面的日志。",
+              "icon": "/assets/favicon_1754567959183.jpg",
+              "enabled": true
             }
           ]
         },
