@@ -2276,6 +2276,14 @@
           "description": "爱好广泛的女王 独立APP开发者 AI修理师 爬虫砖家 逆向工程师",
           "icon": "/assets/favicon_1754547930635.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754548124722_v82cjtkl8",
+          "title": "ACEVS",
+          "href": "https://acevs.com/",
+          "description": "你坚持过什么事情？",
+          "icon": "/assets/favicon_1754547971736.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
