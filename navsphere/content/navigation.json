@@ -1868,6 +1868,14 @@
           "description": "一只西去而旋转的飞鸟。",
           "icon": "/assets/favicon_1754543738933.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754544419267_vcwgycbtr",
+          "title": "码农明明桑",
+          "href": "https://isming.me/",
+          "description": "一个程序员的生活和技术记录，热爱生活，心向远方。",
+          "icon": "https://isming.me/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
