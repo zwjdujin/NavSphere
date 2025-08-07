@@ -1667,6 +1667,14 @@
           "description": "Horean‘s Blog - Spread the Knowledge Wisely &amp; Widely",
           "icon": "/assets/favicon_1754540492668.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754540742050_u9l3rglns",
+          "title": "笔记星球",
+          "href": "https://note-star.cn/",
+          "description": "一款简约的，专注于写作的博客程序。",
+          "icon": "/assets/favicon_1754540673199.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
