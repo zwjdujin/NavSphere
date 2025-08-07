@@ -499,7 +499,16 @@
           "icon": "FolderOpen",
           "description": "博客作者位于海南省。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754537740825_5clqvr7az",
+              "title": "紫慕碎碎念",
+              "href": "https://90zm.net/",
+              "description": "清澈、明净、优雅，愿以此为人生路上的航标！",
+              "icon": "https://90zm.net/usr/themes/Akina/images/favicon.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "bd3dd31d-051c-4f2d-98c6-777cb95e5187",
