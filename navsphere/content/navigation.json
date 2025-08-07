@@ -489,6 +489,14 @@
               "description": "一处舒适的避风港。",
               "icon": "https://www.david03.top/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754541771607_14gya3vfw",
+              "title": "夏泉的后院",
+              "href": "https://www.hxueh.net/",
+              "description": "本博客用于记录我的思想变化，因此前后观点有变亦属正常。",
+              "icon": "https://i0.wp.com/www.hxueh.net/wp-content/uploads/2020/02/giochi.png?fit=32%2C30&#038;ssl=1",
+              "enabled": true
             }
           ]
         },
