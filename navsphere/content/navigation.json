@@ -193,6 +193,14 @@
               "description": "一个网络安全爱好者的日常记录，分享踩过的坑、实战案例和基础工具使用心得 记录生活点点滴滴。",
               "icon": "/assets/favicon_1754544483442.jpg",
               "enabled": true
+            },
+            {
+              "id": "site_1754544542486_rpy8z64vd",
+              "title": "程序员关关",
+              "href": "https://951008.com/",
+              "description": "小清新，重度拖延症，资深lsp，有收藏整理癖，喜新又恋旧，喜欢有效沟通；以上都是我瞎编的，千万别信！",
+              "icon": "https://951008.com/favicon.png",
+              "enabled": true
             }
           ]
         },
