@@ -2372,6 +2372,14 @@
           "description": "在这里可以看到一个真实的我，我会在这里书写我的一切。",
           "icon": "/assets/favicon_1754567724511.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754567798561_cfa5inpmq",
+          "title": "公子府",
+          "href": "https://www.gongzi.org/",
+          "description": "于繁华时求淡然。",
+          "icon": "/assets/favicon_1754567790923.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
