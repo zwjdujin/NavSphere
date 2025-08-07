@@ -484,6 +484,14 @@
               "description": "作为一名小网吧业主，兼技术员，兼收银员，兼保洁员，我和网吧是相辅相成的，因为网吧的存在，我才得以不再那么狼狈的生存在这个世界上。",
               "icon": "/assets/favicon_1754547385721.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754547591077_9t26u1ibn",
+              "title": "Hugo.Linの生活志",
+              "href": "https://399s.com/",
+              "description": "这儿是 Hugo.Lin 记录生活工作碎碎念的地儿。",
+              "icon": "/assets/favicon_1754547575168.ico",
+              "enabled": true
             }
           ]
         },
