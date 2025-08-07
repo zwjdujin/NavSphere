@@ -1777,6 +1777,14 @@
               "description": "关注PHP开发等技术的个人博客，同时也是个人程序人生的点滴记录和时光储备。",
               "icon": "https://qq52o.me/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754569314522_u9x65o8b7",
+              "title": "LiuShen's Blog - 清羽飞扬",
+              "href": "https://blog.liushen.fun/",
+              "description": "提供建站教程、编程实战笔记、生活点滴，个人经验，融合技术开发与人文思考，定期更新深度指南与创意灵感，给大家提供更多帮助。",
+              "icon": "/assets/favicon_1754569274566.png",
+              "enabled": true
             }
           ]
         },
