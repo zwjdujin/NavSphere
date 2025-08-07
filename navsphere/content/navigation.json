@@ -70,6 +70,14 @@
           "description": "BlogFinder 收录的所有博客站点列表，目前已有九百多位个人博客入驻本站。",
           "icon": "/assets/favicon_1754567402169.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754567515323_tl8s9q7ps",
+          "title": "博客说 · 个人博客聚合",
+          "href": "https://blogtalk.org/blogs",
+          "description": "展示博友说所收录的全部博客。",
+          "icon": "https://blogtalk.org/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
