@@ -185,6 +185,14 @@
               "description": "一个2002年因网恋而建，然后碎碎念了20多年的个人网站……",
               "icon": "/assets/favicon_1754544434133.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754544496507_mqudk8t7k",
+              "title": "云烟博客",
+              "href": "https://www.yunyanck.cn/",
+              "description": "一个网络安全爱好者的日常记录，分享踩过的坑、实战案例和基础工具使用心得 记录生活点点滴滴。",
+              "icon": "/assets/favicon_1754544483442.jpg",
+              "enabled": true
             }
           ]
         },
