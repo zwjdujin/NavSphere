@@ -1218,6 +1218,14 @@
               "description": "一个在帝都搬砖的新时代农民工所建立的一个小破站，分享一些生活、摄影、学习、工作上的一些知识。",
               "icon": "/assets/favicon_1754567986320.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754569814828_0q3o370bv",
+              "title": "夜未央",
+              "href": "https://www.savouer.com/",
+              "description": "记录生活感悟，及用经济学视角对社会的观察和解读。",
+              "icon": "/assets/favicon_1754569788407.ico",
+              "enabled": true
             }
           ]
         },
