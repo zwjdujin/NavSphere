@@ -2084,6 +2084,14 @@
           "description": "我是Rolen，我会用一生的时间，去体验、发现、创造；以开源自我的方式，向宇宙万物发送我的频率；借时间统计方法，度过自己眼中高质量的一生。",
           "icon": "https://rolen.wiki/wp-content/uploads/2024/09/cropped-rolen-logo-black-2-192x192.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754546704658_k0cjlgzrw",
+          "title": "Pi3's Notes",
+          "href": "https://blog.pi3.fun/",
+          "description": "远方的桥，连接着彼岸，树的影子轻轻拂过水面，仿佛诉说着岁月的流逝。 在这片宁静的天地间，每一段文字都承载着时光的故事，每一篇日记都是心灵的独白",
+          "icon": "/assets/favicon_1754546697812.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
