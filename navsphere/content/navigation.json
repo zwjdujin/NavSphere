@@ -298,6 +298,14 @@
               "description": "晚来天欲雪，能饮一杯无。",
               "icon": "/assets/img_1754124076452.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754546236483_7y57q7t4k",
+              "title": "空白Koobai",
+              "href": "https://koobai.com/",
+              "description": "工作生活记录、折腾备忘, 同时分享下日常使用的软件、 观看的影视、喜欢的好物等~~",
+              "icon": "https://koobai.com/favicon.ico",
+              "enabled": true
             }
           ]
         },
