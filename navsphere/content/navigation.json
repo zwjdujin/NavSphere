@@ -403,6 +403,14 @@
               "description": "记录皇家元林/刘元林的工作经历,生活点滴,以及WordPress主题,服务器技术,网络编程,内网穿透,前端代码,LOL等等具有可分享,实用性强,有意义的博客.",
               "icon": "/assets/favicon_1754546948131.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754547051021_4fqq26txy",
+              "title": "飞絮落叶雪",
+              "href": "https://www.mrhe.net/",
+              "description": "分享老何的故事。",
+              "icon": "https://cdn.mrhe.net/wp-content/uploads/2024/11/cropped-logo-1-32x32.png",
+              "enabled": true
             }
           ]
         },
