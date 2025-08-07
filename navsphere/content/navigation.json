@@ -991,6 +991,14 @@
               "description": "喜欢瞎讲究，爱钻牛角尖，凡事要寻求最优解，否则饭吃不香觉睡不着。",
               "icon": "https://aprilforest.cn/images/newicon.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754539413967_dsbss0oqy",
+              "title": "有呀",
+              "href": "https://nuoea.com/",
+              "description": "什么都有一点。",
+              "icon": "/assets/favicon_1754539360791.ico",
+              "enabled": true
             }
           ]
         },
