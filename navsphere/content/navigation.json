@@ -62,6 +62,14 @@
           "description": "博客收录展示平台：博客录，博客收录展示平台。",
           "icon": "https://boke.lu/%E5%8D%9A%E5%AE%A2%E5%BD%95%E6%96%B0%E5%9B%BE%E6%A0%87%E9%80%8F%E6%98%8E%E5%BA%95%E5%9C%86%E5%BA%95(1).png",
           "enabled": true
+        },
+        {
+          "id": "site_1754567433614_033400keu",
+          "title": "博客列表 - BlogFinder",
+          "href": "https://bf.zzxworld.com/s",
+          "description": "BlogFinder 收录的所有博客站点列表，目前已有九百多位个人博客入驻本站。",
+          "icon": "/assets/favicon_1754567402169.png",
+          "enabled": true
         }
       ],
       "subCategories": []
