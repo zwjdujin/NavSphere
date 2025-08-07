@@ -1202,6 +1202,14 @@
               "description": "悠FM, 记录美好生活的个人休闲博客，内容包括生活、兴趣、学习等方面的日志。",
               "icon": "/assets/favicon_1754567959183.jpg",
               "enabled": true
+            },
+            {
+              "id": "site_1754568000031_wc2tkruxy",
+              "title": "青山小站",
+              "href": "https://blog.yanqingshan.com/",
+              "description": "一个在帝都搬砖的新时代农民工所建立的一个小破站，分享一些生活、摄影、学习、工作上的一些知识。",
+              "icon": "/assets/favicon_1754567986320.ico",
+              "enabled": true
             }
           ]
         },
