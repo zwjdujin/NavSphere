@@ -120,6 +120,14 @@
               "description": "随着年纪增长事情增多，发现记事能力有所减弱，学习的劲头有所松懈，遂以此契机重开博客，一切重头再来，将看到的学到的用到的记录下来，唤起感知和自习能力提升。",
               "icon": "/assets/favicon_1754545306234.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754545492293_w05jlogvv",
+              "title": "皓子的小站",
+              "href": "https://howiehz.top/",
+              "description": "互联网是一片海洋，网站犹如一座座孤岛漂浮在其上，唯有超链接将它们联系起来。而此处恰好就是一座小岛，欢迎访问皓子的小站。",
+              "icon": "/assets/favicon_1754545479791.ico",
+              "enabled": true
             }
           ]
         },
