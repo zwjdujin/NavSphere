@@ -2468,6 +2468,14 @@
           "description": "旅行，摄影，单车，历史，武术-分享美好生活！",
           "icon": "/assets/favicon_1754568545175.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754568782955_5ereeii89",
+          "title": "迷你日志",
+          "href": "https://minirizhi.com/",
+          "description": "关于生活记录、网站建设、基金投资、保险配置、软件分享等方面的笔记！",
+          "icon": "/assets/favicon_1754568753912.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
