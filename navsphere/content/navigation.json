@@ -46,6 +46,14 @@
           "description": "将你的个人博客信息通过邮件形式提交，将会尽快的收录到博客导航页面。",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1754546499493_54v2vyx2l",
+          "title": "博客我们",
+          "href": "https://blogwe.com/",
+          "description": "博客我们（Blogwe）创办于2017年3月，是较早的个人博客导航网站，为纯公益性网站，网站宗旨是通过博客导航串联博客圈子，增强互动交流，认识更多朋友。",
+          "icon": "/assets/favicon_1754546471435.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
