@@ -1160,6 +1160,14 @@
               "description": "作者 1980 年代末出生于湖南，2007 年起因学习、工作移居广东，现在珠三角某市辖区从事基层法律工作。",
               "icon": "/assets/favicon_1754540850351.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754543408758_ksxzv403j",
+              "title": "流情的博客",
+              "href": "https://liuqingwushui.top/",
+              "description": "不畏将来，不念过去；放慢生活的脚步，学会借助工具弹射起步。",
+              "icon": "https://liuqingwushui.top/favicon.ico",
+              "enabled": true
             }
           ]
         }
