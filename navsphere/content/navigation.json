@@ -2380,6 +2380,14 @@
           "description": "于繁华时求淡然。",
           "icon": "/assets/favicon_1754567790923.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754567845681_innklxg8u",
+          "title": "guonlin",
+          "href": "https://guonlin.xlog.app/",
+          "description": "一名互联网设计师，对新奇事物相当感兴趣，也喜欢记录一些什么。\n\n目前的计划是写一个月刊，内容会包括我发现的一些有意思的事物，欢迎订阅💡",
+          "icon": "https://ipfs.crossbell.io/ipfs/bafkreidy36daueko4a6yjflplnpssnnlavdsimj7so7hdtxjjy7i3xnl4y",
+          "enabled": true
         }
       ],
       "subCategories": []
