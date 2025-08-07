@@ -2268,6 +2268,14 @@
           "description": "83 年的老大叔，敝姓林。自娱自乐，不亦乐乎！博客还存在除了自娱自乐，就是放了这么多年的那点舍不得了。",
           "icon": "/assets/favicon_1754547526414.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754547959900_ky9sjo0m9",
+          "title": "obaby@mars",
+          "href": "https://h4ck.org.cn/",
+          "description": "爱好广泛的女王 独立APP开发者 AI修理师 爬虫砖家 逆向工程师",
+          "icon": "/assets/favicon_1754547930635.png",
+          "enabled": true
         }
       ],
       "subCategories": []
