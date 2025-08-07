@@ -2044,6 +2044,14 @@
           "description": "在这里记录一些偶尔冒出来转眼就会忘的灵感。",
           "icon": "/assets/favicon_1754545583871.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754546368986_9xcyw8u21",
+          "title": "蔥籽·菠蘿閣",
+          "href": "https://chencong.blog/",
+          "description": "寂然凝虑孕星芒，九秋潜破茧。根须织骨，翠叶裁纹。灵秀吐萼山河寂，芥子藏须弥，荣枯皆大象。",
+          "icon": "/assets/favicon_1754546321338.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
