@@ -1715,6 +1715,14 @@
           "description": "Where Justin Plogs.",
           "icon": "https://plogs.top/wp-content/uploads/2025/04/Justin.jpg",
           "enabled": true
+        },
+        {
+          "id": "site_1754541047671_l595sjg7z",
+          "title": "静风说",
+          "href": "https://www.jfsay.com/",
+          "description": "静风说，是一个原创的生活类博客，记录日常生活和所思所想，包括读过的书、看过的电影、去过的地方、学到的知识，有时也会关注互联网、软件、WordPress。",
+          "icon": "/assets/favicon_1754540978249.png",
+          "enabled": true
         }
       ],
       "subCategories": []
