@@ -1956,6 +1956,14 @@
           "description": "老张博客，一个记录生活随笔日志的个人博客。融合个人生活随笔、电脑网络使用技巧、实用资源分享、网站建设教程攻略等相关内容。",
           "icon": "/assets/favicon_1754544943401.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754545287064_qztoej0xj",
+          "title": "Lapisy的博客",
+          "href": "https://www.lapisy.com/",
+          "description": "这是卒子行的博客，七郎的小院，一个大前端程序员，希望成为一个独立开发者。",
+          "icon": "/assets/favicon_1754545260631.png",
+          "enabled": true
         }
       ],
       "subCategories": []
