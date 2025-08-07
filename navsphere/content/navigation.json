@@ -1292,6 +1292,14 @@
               "description": "不将就！不要急着赶路，去感受路。",
               "icon": "https://www.baifan97.cn/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754568836051_5rj51fkdh",
+              "title": "王如飞 Blog",
+              "href": "https://wangrufei.com/",
+              "description": "保持简单，减少消费，专注创造。这是一个自言自语、自问自答的地方，算是我的笔记本吧，尽量写点有用的。",
+              "icon": "https://wangrufei.com/favicon.ico",
+              "enabled": true
             }
           ]
         },
