@@ -1795,6 +1795,14 @@
           "description": "叶泯希的个人博客，本意为了折腾，实际为了纪录点滴,很幸运能与你相遇，共创美好回忆。",
           "icon": "/assets/favicon_1754543325989.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754543609279_br4ch7a9t",
+          "title": "呓语梦轩",
+          "href": "https://blog.awaae001.top/",
+          "description": "本质就是一块的摸鱼之地，也是自己可以用来发小牢骚的一个空间，是自身对外的一个可控的窗口，是彰显个性的平台，博客不同于脸书/微博/QQ,这样千人一面的平台，博口可以做到千人千面，加之互联网基础设施的成熟，几乎每个人都可以建立一个个人博客。",
+          "icon": "/assets/favicon_1754543531116.jpg",
+          "enabled": true
         }
       ],
       "subCategories": []
