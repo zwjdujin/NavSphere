@@ -598,6 +598,14 @@
               "description": "90后的奶爸，彩虹家庭，两男一娃，天蝎理工男和摩羯理工男的爱情，做不了伟人，至少要做个好人，我们接受更多不同，也是扩大自己的自由边界。",
               "icon": "/assets/favicon_1754547906722.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754548191604_irtyn8fa1",
+              "title": "迟於",
+              "href": "https://www.weingxing.cn/",
+              "description": "Hi~，可以叫我迟於，一位折腾编程、算法、数据分析，正在努力的大学生程序猿。栖迟于一丘，则天下不易其乐。",
+              "icon": "/assets/favicon_1754548140273.ico",
+              "enabled": true
             }
           ]
         },
