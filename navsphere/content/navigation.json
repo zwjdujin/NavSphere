@@ -1675,6 +1675,14 @@
           "description": "一款简约的，专注于写作的博客程序。",
           "icon": "/assets/favicon_1754540673199.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754540802397_iu26zliwt",
+          "title": "陈仓颉",
+          "href": "https://imzm.im/",
+          "description": "博客的目的是记录，没有明确的主题，所有的文章均仅代表自己。物质满足和精神满足，总有一个要在路上。",
+          "icon": "/assets/favicon_1754540756291.png",
+          "enabled": true
         }
       ],
       "subCategories": []
