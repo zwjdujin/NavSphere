@@ -799,6 +799,14 @@
               "description": "這裏是我的飛鳥集與代碼世界。",
               "icon": "https://api.fmcf.cc/api/v2/objects/avatar/q4yxd5smqxro8lfm69.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754544859879_qpbgrkt1e",
+              "title": "七月的栀子",
+              "href": "https://qydzz.cn/",
+              "description": "用文字记一些爱好，摄影，旅游，折腾电子设备\n呃，现实中话少，网络中话也不多。",
+              "icon": "/assets/favicon_1754544793884.ico",
+              "enabled": true
             }
           ]
         },
