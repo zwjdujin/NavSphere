@@ -209,6 +209,14 @@
               "description": "淮城一只猫，关注于产品体验、生活体验和IT技术经验分享的个人博客。致力成为互联网具有个性化、传播力的个人独立博客。博客座右铭：永远年轻，永远热泪盈眶。",
               "icon": "https://cdn.iiong.com/2025/03/iiong.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754544771739_qwe3yj0a2",
+              "title": "妖业蛋",
+              "href": "https://yaoyedan.net/",
+              "description": "妖业蛋，博主，不善于交际，喜欢小众音乐，爱好折腾，偶尔分享一点我的生活。",
+              "icon": "/assets/favicon_1754544746742.png",
+              "enabled": true
             }
           ]
         },
