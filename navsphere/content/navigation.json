@@ -1996,6 +1996,14 @@
           "description": "人要像树一样，树只会向上生长。",
           "icon": "/assets/favicon_1754545504557.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754545547600_br1cf1hev",
+          "title": "Malvern's Blog",
+          "href": "https://20508888.xyz/",
+          "description": "一个秃发机械汪的博客，在此分享一些我的所见所闻，也会有收录一些我觉得有价值的雄文。",
+          "icon": "/assets/favicon_1754545539982.png",
+          "enabled": true
         }
       ],
       "subCategories": []
