@@ -481,6 +481,14 @@
               "description": "钧言极客（JINJUN.TOP）一个独立个人博客，记录平凡生活中的一些感悟、分享生活点滴和折腾的新事物，与我一起记录每一次精彩瞬间。",
               "icon": "https://www.jinjun.top/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754541196165_ialkb92s3",
+              "title": "Davidの3号基地",
+              "href": "https://www.david03.top/",
+              "description": "一处舒适的避风港。",
+              "icon": "https://www.david03.top/favicon.ico",
+              "enabled": true
             }
           ]
         },
