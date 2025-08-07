@@ -2356,6 +2356,14 @@
           "description": "你好，我是小孙同学，一个浪漫的理性主义者。读书、摄影、编程、旅行。",
           "icon": "/assets/favicon_1754567663361.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754567748467_8jz7e72bq",
+          "title": "白熊阿丸的小屋",
+          "href": "https://blog.bxaw.name/",
+          "description": "在这里可以看到一个真实的我，我会在这里书写我的一切。",
+          "icon": "/assets/favicon_1754567724511.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
