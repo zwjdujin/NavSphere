@@ -2533,6 +2533,14 @@
           "description": "充满激情的未来主义者和多领域探索者，致力于挖掘人类潜力的极限。我热爱科技，思考商业模式，欣赏艺术，同时关注社会责任，力求在多个领域留下自己的印记。",
           "icon": "/assets/favicon_1754568932237.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754569266755_jiqsxfzdb",
+          "title": "时光日志",
+          "href": "https://www.timelogs.cn/",
+          "description": "时光日志、生活、摄影，以此镌刻生活，珍藏记忆，启迪未来。",
+          "icon": "https://www.timelogs.cn/usr/themes/SnapicJust640px/img/AppIcon.png",
+          "enabled": true
         }
       ],
       "subCategories": []
