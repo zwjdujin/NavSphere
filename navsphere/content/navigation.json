@@ -78,6 +78,14 @@
           "description": "展示博友说所收录的全部博客。",
           "icon": "https://blogtalk.org/favicon.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754567594356_rf87vg9pe",
+          "title": "站点列表 - 笔墨迹",
+          "href": "https://blogscn.fun/blogs.html",
+          "description": "致力于发掘和分享\"优秀个人独立博客\"。",
+          "icon": "https://photo.xiangming.site/img/blogscn_icon.png",
+          "enabled": true
         }
       ],
       "subCategories": []
