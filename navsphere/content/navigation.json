@@ -54,6 +54,14 @@
           "description": "博客我们（Blogwe）创办于2017年3月，是较早的个人博客导航网站，为纯公益性网站，网站宗旨是通过博客导航串联博客圈子，增强互动交流，认识更多朋友。",
           "icon": "/assets/favicon_1754546471435.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754567321668_282nqaxm5",
+          "title": "博客录",
+          "href": "https://boke.lu/",
+          "description": "博客收录展示平台：博客录，博客收录展示平台。",
+          "icon": "https://boke.lu/%E5%8D%9A%E5%AE%A2%E5%BD%95%E6%96%B0%E5%9B%BE%E6%A0%87%E9%80%8F%E6%98%8E%E5%BA%95%E5%9C%86%E5%BA%95(1).png",
+          "enabled": true
         }
       ],
       "subCategories": []
