@@ -537,6 +537,22 @@
               "description": "95后文艺男；清远人在妖都工作，朝十晚六+N；牛马的一生无需多解释。",
               "icon": "/assets/favicon_1754543690299.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754543838806_742agvo67",
+              "title": "忆往事",
+              "href": "https://zhou.ge/",
+              "description": "书已逝时光，忆旧日往事。",
+              "icon": "/assets/favicon_1754543808066.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1754543903870_6o6ifrc91",
+              "title": "挨踢路",
+              "href": "https://itlu.net/",
+              "description": "十六年字字印记，十七年新篇启航。老狼记录生活，偶尔写点伪技术的独立博客。",
+              "icon": "https://itlu.net/favicon.ico",
+              "enabled": true
             }
           ]
         },
