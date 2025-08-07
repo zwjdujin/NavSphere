@@ -1731,6 +1731,14 @@
           "description": "静风说，是一个原创的生活类博客，记录日常生活和所思所想，包括读过的书、看过的电影、去过的地方、学到的知识，有时也会关注互联网、软件、WordPress。",
           "icon": "/assets/favicon_1754540978249.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754541266222_s9f7rnc1h",
+          "title": "问心斋",
+          "href": "https://blog.ehnap.com/",
+          "description": "90后，已婚中年老男人，狗都不做的 Windows 客户端开发一枚。",
+          "icon": "/assets/favicon_1754541226826.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
