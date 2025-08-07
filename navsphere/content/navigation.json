@@ -490,6 +490,14 @@
               "description": "专注于推荐优秀软件、APP应用和互联网资源；以及各种有意思的内容，你需要的这里都有！",
               "icon": "https://laod.cn/wp-content/uploads/2021/03/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754538038644_w4m8oown8",
+              "title": "云心怀鹤",
+              "href": "https://bluehe.cn/",
+              "description": "寻真旅摄，笔墨纪实。",
+              "icon": "https://bluehe.cn/usr/themes/SnapicJust640px/img/AppIcon.png",
+              "enabled": true
             }
           ]
         },
