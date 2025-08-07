@@ -1972,6 +1972,14 @@
           "description": "这是卒子行的博客，七郎的小院，一个大前端程序员，希望成为一个独立开发者。",
           "icon": "/assets/favicon_1754545260631.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754545468657_nuan01met",
+          "title": "梅之夏",
+          "href": "https://blog.mcenahle.cn/",
+          "description": "世人说，梅不在夏开；我却见过，一朵花，在烈日里温柔绽放，留在我心底，从未凋谢。",
+          "icon": "/assets/favicon_1754545411162.png",
+          "enabled": true
         }
       ],
       "subCategories": []
