@@ -1308,6 +1308,14 @@
               "description": "宁为山水门前客，不做风花梦里人。记录生活点滴，感悟岁月珍藏。在这里，我分享美食之旅、自驾游记，捕捉自然风光之美，见证季节变换的奇迹。每一篇旅行随笔，都是心灵的旅行，传递生活美学与慢生活哲学。",
               "icon": "https://img.imuu.cn/uploads/202402/211708508955_65d5c71b66fbc.webp",
               "enabled": true
+            },
+            {
+              "id": "site_1754568988612_2o9v3pkpu",
+              "title": "东评西就",
+              "href": "https://dongjunke.cn/",
+              "description": "80 后互联网老司机，专注于科技互联网、社交媒体运营领域。",
+              "icon": "/assets/favicon_1754568973813.png",
+              "enabled": true
             }
           ]
         },
