@@ -1811,6 +1811,14 @@
           "description": "这里是WORDPACE，粽叶加米的个人博客，里面分享着一些有用没用的，还有一些生活小记。",
           "icon": "/assets/favicon_1754543628515.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754543669340_bpyrjv66h",
+          "title": "Counting Stars",
+          "href": "https://hux.ink/",
+          "description": "欲买桂花同载酒，终不似，少年游。",
+          "icon": "/assets/favicon_1754543657266.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
