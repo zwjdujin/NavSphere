@@ -460,6 +460,30 @@
               "description": "语言或许显得苍白，但每一个文字都被赋予生命，一笔一划，足够镌刻过往。",
               "icon": "https://airy.ink/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754547416335_i32i134z3",
+              "title": "网吧备忘录",
+              "href": "https://ltmltm.cn/",
+              "description": "作为一名小网吧业主，兼技术员，兼收银员，兼保洁员，我和网吧是相辅相成的，因为网吧的存在，我才得以不再那么狼狈的生存在这个世界上。",
+              "icon": "/assets/favicon_1754547385721.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1754547455675_gbvea5uni",
+              "title": "网吧备忘录",
+              "href": "https://ltmltm.cn/",
+              "description": "作为一名小网吧业主，兼技术员，兼收银员，兼保洁员，我和网吧是相辅相成的，因为网吧的存在，我才得以不再那么狼狈的生存在这个世界上。",
+              "icon": "/assets/favicon_1754547385721.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1754547497167_dacjy6jd6",
+              "title": "网吧备忘录",
+              "href": "https://ltmltm.cn/",
+              "description": "作为一名小网吧业主，兼技术员，兼收银员，兼保洁员，我和网吧是相辅相成的，因为网吧的存在，我才得以不再那么狼狈的生存在这个世界上。",
+              "icon": "/assets/favicon_1754547385721.png",
+              "enabled": true
             }
           ]
         },
