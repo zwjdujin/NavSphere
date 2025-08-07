@@ -2573,6 +2573,14 @@
           "description": "在这里，我们分享最新的技术趋势、编程技巧和开发心得，一起成长，共同进步。",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1754569777772_ggjnnwxxy",
+          "title": "灰常记忆",
+          "href": "https://bestcherish.com/",
+          "description": "一个以记录个人生活、工作和网络相关为主题的个人网站，尽可能让生活多一些新鲜和奇趣……",
+          "icon": "/assets/favicon_1754569750980.png",
+          "enabled": true
         }
       ],
       "subCategories": []
