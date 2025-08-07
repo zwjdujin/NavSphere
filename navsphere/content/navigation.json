@@ -411,6 +411,14 @@
               "description": "分享老何的故事。",
               "icon": "https://cdn.mrhe.net/wp-content/uploads/2024/11/cropped-logo-1-32x32.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754547090618_f2qdg2f0q",
+              "title": "汝者非鱼",
+              "href": "https://rzfyu.com/",
+              "description": "听从己心，无问西东",
+              "icon": "https://rzfyu.com/logo.png",
+              "enabled": true
             }
           ]
         },
