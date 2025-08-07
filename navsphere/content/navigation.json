@@ -2116,6 +2116,14 @@
           "description": "远方的桥，连接着彼岸，树的影子轻轻拂过水面，仿佛诉说着岁月的流逝。 在这片宁静的天地间，每一段文字都承载着时光的故事，每一篇日记都是心灵的独白",
           "icon": "/assets/favicon_1754546697812.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754547010845_vyzz9d0bn",
+          "title": "灼热 *日光",
+          "href": "https://zhuo.re/",
+          "description": "太阳直面天地/万物在光的绞刑架上/晾晒自己沉默的内脏。",
+          "icon": "/assets/favicon_1754546989062.png",
+          "enabled": true
         }
       ],
       "subCategories": []
