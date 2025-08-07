@@ -1803,6 +1803,14 @@
           "description": "本质就是一块的摸鱼之地，也是自己可以用来发小牢骚的一个空间，是自身对外的一个可控的窗口，是彰显个性的平台，博客不同于脸书/微博/QQ,这样千人一面的平台，博口可以做到千人千面，加之互联网基础设施的成熟，几乎每个人都可以建立一个个人博客。",
           "icon": "/assets/favicon_1754543531116.jpg",
           "enabled": true
+        },
+        {
+          "id": "site_1754543644441_rhqeyr4hm",
+          "title": "粽叶加米",
+          "href": "https://www.wordpace.com/",
+          "description": "这里是WORDPACE，粽叶加米的个人博客，里面分享着一些有用没用的，还有一些生活小记。",
+          "icon": "/assets/favicon_1754543628515.png",
+          "enabled": true
         }
       ],
       "subCategories": []
