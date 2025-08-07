@@ -1080,6 +1080,14 @@
               "description": "欢迎来到 MoraEX 博客，这里是一个新媒体行业社畜用来在互联网上留下痕迹的网站，在这里你能够看到我的日常生活、学习笔记，到处瞎拍的照片以及一些玩机教程等东西。最后祝你在这里玩的愉快！",
               "icon": "/assets/favicon_1754539747223.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754540000618_imvlg9vfv",
+              "title": "悠雾日记",
+              "href": "https://www.uufog.com/",
+              "description": "与白云共赏霞光，云层会助力不断前行。",
+              "icon": "/assets/favicon_1754539987991.ico",
+              "enabled": true
             }
           ]
         }
