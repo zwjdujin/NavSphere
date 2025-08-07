@@ -1614,6 +1614,14 @@
               "description": "灵魂沉为石樱，灯笼映出暗影。",
               "icon": "https://blog.catscarlet.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754567165606_446nnslk4",
+              "title": "Jeffer.Z",
+              "href": "https://www.jeffer.xyz/",
+              "description": "日常带娃，社畜，上独立博客折腾，偶尔写一些WordPress插件，在网上尝试做一些有意思的事情。",
+              "icon": "/assets/favicon_1754567122203.jpg",
+              "enabled": true
             }
           ]
         }
