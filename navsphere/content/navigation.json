@@ -999,6 +999,14 @@
               "description": "什么都有一点。",
               "icon": "/assets/favicon_1754539360791.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754539480078_10rs6g6g2",
+              "title": "周天记",
+              "href": "https://zhoutian.com/",
+              "description": "满心「 老去的90后，看小说，游戏迷 」当我站在岁月的岔路口，回首过往，发现自己曾经历过风雨，也品尝过阳光。",
+              "icon": "https://img.lovelu.top/hexo-blog/manxin_ico.png",
+              "enabled": true
             }
           ]
         },
