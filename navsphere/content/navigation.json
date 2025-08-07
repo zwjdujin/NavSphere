@@ -452,6 +452,14 @@
               "description": "听！林林在无病呻吟！分享林林对生活的记录和思考。",
               "icon": "https://www.xiaozonglin.cn/usr/uploads/2023/03/4114618746.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754547306471_4ci5prbiq",
+              "title": "瓦匠个人小站",
+              "href": "https://airy.ink/",
+              "description": "语言或许显得苍白，但每一个文字都被赋予生命，一笔一划，足够镌刻过往。",
+              "icon": "https://airy.ink/favicon.ico",
+              "enabled": true
             }
           ]
         },
