@@ -883,7 +883,16 @@
           "icon": "FolderOpen",
           "description": "博客作者位于天津市。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754544382399_kucb6s496",
+              "title": "半方池水半方田 - Qin's blog",
+              "href": "https://blog.uuanqin.top/",
+              "description": "其实主打就是随意和果断。实在要说意思那就是「一方天地」的意思。",
+              "icon": "https://blog.uuanqin.top/favicon.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "cdf19321-43c7-456b-80e8-5a15557f1e9b",
