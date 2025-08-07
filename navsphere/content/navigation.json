@@ -395,6 +395,14 @@
               "description": "热衷于分享技术和日常生活的机械专业小哥哥，捣鼓机械设计、计算机视觉和深度学习。网站还涉及到网页设计以及 SEO 相关博文。",
               "icon": "https://imgbed.52txr.cn/i/img76/favicon.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754546971263_6ww8tawkv",
+              "title": "皇家元林",
+              "href": "https://hjyl.org/",
+              "description": "记录皇家元林/刘元林的工作经历,生活点滴,以及WordPress主题,服务器技术,网络编程,内网穿透,前端代码,LOL等等具有可分享,实用性强,有意义的博客.",
+              "icon": "/assets/favicon_1754546948131.png",
+              "enabled": true
             }
           ]
         },
