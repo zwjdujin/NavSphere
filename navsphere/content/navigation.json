@@ -590,6 +590,14 @@
               "description": "慢读时光博客，记录平凡生活，分享读书感悟，探索生活中的美好瞬间。",
               "icon": "/assets/favicon_1754547865313.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754547920431_344vibi84",
+              "title": "三十海河",
+              "href": "https://ihaihe.cn/",
+              "description": "90后的奶爸，彩虹家庭，两男一娃，天蝎理工男和摩羯理工男的爱情，做不了伟人，至少要做个好人，我们接受更多不同，也是扩大自己的自由边界。",
+              "icon": "/assets/favicon_1754547906722.png",
+              "enabled": true
             }
           ]
         },
