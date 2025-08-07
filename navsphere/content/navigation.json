@@ -1227,6 +1227,14 @@
               "description": "其实主打就是随意和果断。实在要说意思那就是「一方天地」的意思。",
               "icon": "https://blog.uuanqin.top/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754568688025_udeiwpr65",
+              "title": "SparkSpace - 温暖de鱼窝",
+              "href": "https://www.sparkspace.top/",
+              "description": "我的名字是咸鱼，是一名在读的高中生。我不知道这个网站未来会变成什么样子。或许是大家畅所欲言的小天地，抑或是我个人分享生活点滴的平台。",
+              "icon": "/assets/favicon_1754568628401.jpeg",
+              "enabled": true
             }
           ]
         },
