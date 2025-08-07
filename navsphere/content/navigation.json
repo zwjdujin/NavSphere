@@ -338,6 +338,14 @@
               "description": "李启龙，一名九零后中年人，运维界的小学生。",
               "icon": "https://wiki.eryajf.net/img/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754567210060_hswr0kx6q",
+              "title": "leorain",
+              "href": "https://www.leorain.cn/",
+              "description": "知识分享、技术交流、生活琐碎。",
+              "icon": "/assets/favicon_1754567177535.ico",
+              "enabled": true
             }
           ]
         },
