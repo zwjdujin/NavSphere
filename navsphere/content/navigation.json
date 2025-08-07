@@ -1900,6 +1900,14 @@
           "description": "一个程序员的生活和技术记录，热爱生活，心向远方。",
           "icon": "https://isming.me/favicon.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754544631963_g2lrs3zt0",
+          "title": "阿呆日记",
+          "href": "https://dai.ge/",
+          "description": "呆哥「 阿呆、王富贵 」，曾持有 bo.ke、nm.sl、aw.sl 等。我在人间凑数的日子，愿望是死后将尸体运到太空漂浮，并期待被外星人捕获将我复活。",
+          "icon": "/assets/favicon_1754544556506.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
