@@ -2492,6 +2492,14 @@
           "description": "关于生活记录、网站建设、基金投资、保险配置、软件分享等方面的笔记！",
           "icon": "/assets/favicon_1754568753912.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754568961169_h4wpbmdxn",
+          "title": "沉沦博客",
+          "href": "https://kkn.me/",
+          "description": "充满激情的未来主义者和多领域探索者，致力于挖掘人类潜力的极限。我热爱科技，思考商业模式，欣赏艺术，同时关注社会责任，力求在多个领域留下自己的印记。",
+          "icon": "/assets/favicon_1754568932237.png",
+          "enabled": true
         }
       ],
       "subCategories": []
