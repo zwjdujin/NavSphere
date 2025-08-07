@@ -1007,6 +1007,14 @@
               "description": "满心「 老去的90后，看小说，游戏迷 」当我站在岁月的岔路口，回首过往，发现自己曾经历过风雨，也品尝过阳光。",
               "icon": "https://img.lovelu.top/hexo-blog/manxin_ico.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754539522584_jxlmbhkds",
+              "title": "ByteWyrm's Blog",
+              "href": "https://blog.devnest.top/",
+              "description": "专注于网络空间安全、CTF竞赛、人工智能、机器学习技术分享和最新安全动态的个人技术博客。",
+              "icon": "https://blog.devnest.top/img/favicon.ico",
+              "enabled": true
             }
           ]
         },
