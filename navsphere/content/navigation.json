@@ -492,6 +492,14 @@
               "description": "这儿是 Hugo.Lin 记录生活工作碎碎念的地儿。",
               "icon": "/assets/favicon_1754547575168.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754547638225_538vejjjw",
+              "title": "Lzy's Hobby",
+              "href": "https://lzy20021010.top/",
+              "description": "Lzy's Hobby 是 Lzy20021010 建立的个人独立博客。网站内容以 IT 科技为主，同时穿插一些个人的所思所想。作者目前为专科计算机专业在校生。欢迎各路读者来访！",
+              "icon": "/assets/favicon_1754547601676.ico",
+              "enabled": true
             }
           ]
         },
