@@ -177,6 +177,14 @@
               "description": "懋和道人-李懋和，俗名李栋梁。书法、国画爱好者，互联网安全与前端建设者。",
               "icon": "/assets/favicon_1754544260954.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754544449847_brqy840hk",
+              "title": "爱情在线 【Since 2002】",
+              "href": "https://aqzx.com/",
+              "description": "一个2002年因网恋而建，然后碎碎念了20多年的个人网站……",
+              "icon": "/assets/favicon_1754544434133.ico",
+              "enabled": true
             }
           ]
         },
