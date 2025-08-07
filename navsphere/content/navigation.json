@@ -2148,6 +2148,14 @@
           "description": "风起，叶随之韵动。",
           "icon": "/assets/favicon_1754547111996.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754547255003_nuqyf0602",
+          "title": "耳朵的主人",
+          "href": "https://www.edzbe.com/",
+          "description": "耳朵的主人，以期刊的形式分享歌特、厄运、朋克、流行、后摇、重金属等小众风格音乐的电台博客，庆幸我还有耳朵，还可以是耳朵的主人。",
+          "icon": "/assets/favicon_1754547210573.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
