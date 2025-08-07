@@ -1235,6 +1235,14 @@
               "description": "我的名字是咸鱼，是一名在读的高中生。我不知道这个网站未来会变成什么样子。或许是大家畅所欲言的小天地，抑或是我个人分享生活点滴的平台。",
               "icon": "/assets/favicon_1754568628401.jpeg",
               "enabled": true
+            },
+            {
+              "id": "site_1754568742547_dslx4evao",
+              "title": "嗯 VIEW",
+              "href": "https://www.umview.com/",
+              "description": "我现在是一名不折不扣的大学生，学的是土木工程，没准你家以后的房子就是我盖的，所以你们要对我好点：>)",
+              "icon": "/assets/favicon_1754568699640.ico",
+              "enabled": true
             }
           ]
         },
