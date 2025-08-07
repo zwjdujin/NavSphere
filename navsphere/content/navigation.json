@@ -926,6 +926,14 @@
               "description": "千禧年小孩、长途骑行小学生、野钓路亚、振出并继、古典乐爱好者、野生程序员、独立开发者。",
               "icon": "https://cos.lhasa.icu/StylePictures/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754539054027_qe02msfv5",
+              "title": "宇阳",
+              "href": "https://liuyuyang.net/",
+              "description": "春风得意马蹄疾，不信人间有别离。记录所学知识，缩短和大神的差距！",
+              "icon": "https://res.liuyuyang.net/usr/images/favicon.ico",
+              "enabled": true
             }
           ]
         },
