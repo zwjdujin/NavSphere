@@ -1096,6 +1096,14 @@
               "description": "记录生活中的平凡事。",
               "icon": "https://ilogs.cn/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754540118656_7m35npwms",
+              "title": "关于行走",
+              "href": "https://www.xingzou.org/",
+              "description": "陈年。旧事。北禾，88年人，生于湖南岳阳，在深圳漂泊八年，现已回长沙。",
+              "icon": "https://www.xingzou.org/favicon.ico",
+              "enabled": true
             }
           ]
         }
