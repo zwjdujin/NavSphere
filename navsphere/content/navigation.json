@@ -918,6 +918,14 @@
               "description": "不忘初心，方得始终。跨越光年，归来任是你。",
               "icon": "https://ffis.me/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754538911463_6bss0hiwh",
+              "title": "lhasa's Blog",
+              "href": "https://lhasa.icu/",
+              "description": "千禧年小孩、长途骑行小学生、野钓路亚、振出并继、古典乐爱好者、野生程序员、独立开发者。",
+              "icon": "https://cos.lhasa.icu/StylePictures/favicon.ico",
+              "enabled": true
             }
           ]
         },
