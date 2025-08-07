@@ -225,6 +225,14 @@
               "description": "Travel Journal。",
               "icon": "https://synyan.cn/wp-content/themes/hera-develop/build/images/logo.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754545189652_kd0fht2h1",
+              "title": "大峰笔记",
+              "href": "https://illl.xyz/",
+              "description": "这里是一个属于我的个人角落，一个没有太多规则、没有太多修饰的空间。只是简单地记录生活、分享一些所思所想，算是给忙碌日常中保留一份宁静和自我表达的自由。",
+              "icon": "/assets/favicon_1754545174824.ico",
+              "enabled": true
             }
           ]
         },
