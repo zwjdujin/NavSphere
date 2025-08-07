@@ -2340,6 +2340,14 @@
           "description": "你坚持过什么事情？",
           "icon": "/assets/favicon_1754547971736.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754567652251_64vob8qse",
+          "title": "虹线",
+          "href": "https://1q43.blog/",
+          "description": "评论尸的个人博客。",
+          "icon": "/assets/favicon_1754567621147.png",
+          "enabled": true
         }
       ],
       "subCategories": []
