@@ -473,6 +473,14 @@
               "description": "阿新，99年，男，广东。设计专业，很专业（不）。摄影、骑行、美食、怀旧、乱折腾。",
               "icon": "https://blog.ahxin.cn/wp-content/uploads/2025/01/cropped-logo-1-192x192.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754540963098_1w9vzddn6",
+              "title": "钧言极客",
+              "href": "https://www.jinjun.top/",
+              "description": "钧言极客（JINJUN.TOP）一个独立个人博客，记录平凡生活中的一些感悟、分享生活点滴和折腾的新事物，与我一起记录每一次精彩瞬间。",
+              "icon": "https://www.jinjun.top/favicon.ico",
+              "enabled": true
             }
           ]
         },
