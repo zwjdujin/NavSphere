@@ -1699,6 +1699,14 @@
           "description": "生活与旅游的双重记录空间，支持文字、视频、图文博客多种形式。无论日常碎片还是旅途见闻，在这里都能找到共鸣，快来分享你的独家时光，遇见同频的灵魂！",
           "icon": "/assets/favicon_1754540814503.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754540929948_mp0g1mr9n",
+          "title": "Justin写Plogs的地方",
+          "href": "https://plogs.top/",
+          "description": "Where Justin Plogs.",
+          "icon": "https://plogs.top/wp-content/uploads/2025/04/Justin.jpg",
+          "enabled": true
         }
       ],
       "subCategories": []
