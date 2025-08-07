@@ -1507,6 +1507,14 @@
           "description": "个人网志。",
           "icon": "/assets/favicon_1754538639666.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754538961955_ekauiorhe",
+          "title": "老刘博客",
+          "href": "https://iliu.org/",
+          "description": "一个验光师和传统文化爱好者的博客。",
+          "icon": "https://iliu.org/content/images/2025/08/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
