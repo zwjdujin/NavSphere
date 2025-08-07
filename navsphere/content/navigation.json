@@ -2140,6 +2140,14 @@
           "description": "太阳直面天地/万物在光的绞刑架上/晾晒自己沉默的内脏。",
           "icon": "/assets/favicon_1754546989062.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754547128862_1c062g786",
+          "title": "叶之韵",
+          "href": "https://www.yezhiyun.com/",
+          "description": "风起，叶随之韵动。",
+          "icon": "/assets/favicon_1754547111996.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
