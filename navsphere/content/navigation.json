@@ -112,6 +112,14 @@
               "description": "我个人是一个喜欢自己动手制作的人",
               "icon": "https://xd.sh.cn/wp-content/uploads/2024/11/cropped-IMG_4030-192x192.jpeg",
               "enabled": true
+            },
+            {
+              "id": "site_1754545391842_4a27u1u7u",
+              "title": "惟康前行",
+              "href": "https://www.wkqx.com/",
+              "description": "随着年纪增长事情增多，发现记事能力有所减弱，学习的劲头有所松懈，遂以此契机重开博客，一切重头再来，将看到的学到的用到的记录下来，唤起感知和自习能力提升。",
+              "icon": "/assets/favicon_1754545306234.png",
+              "enabled": true
             }
           ]
         },
