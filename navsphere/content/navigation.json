@@ -314,6 +314,14 @@
               "description": "机会总是垂青于有准备的人！",
               "icon": "/assets/favicon_1754546244691.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754546310294_elf4e0ren",
+              "title": "浮生闲话 - fuXes的自留地",
+              "href": "https://fuxes.cn/",
+              "description": "这里是 fuXes 的个人网站，这里有 fuXes 的胡言乱语、读书感想，以及日常记录。",
+              "icon": "/assets/favicon_1754546270242.ico",
+              "enabled": true
             }
           ]
         },
