@@ -2052,6 +2052,14 @@
           "description": "寂然凝虑孕星芒，九秋潜破茧。根须织骨，翠叶裁纹。灵秀吐萼山河寂，芥子藏须弥，荣枯皆大象。",
           "icon": "/assets/favicon_1754546321338.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754546449044_7gk3dhyjo",
+          "title": "漫漫长路 - It's my life.",
+          "href": "https://6.mr/",
+          "description": "工作，生活，思考。",
+          "icon": "/assets/favicon_1754546422570.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
