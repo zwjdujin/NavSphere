@@ -942,6 +942,14 @@
               "description": "自由笔触，记录分享生活中的碎碎念念，和收集到的朋友圈文案以及自己网站建设时摸索出来的一些 seo 优化的知识和技巧！",
               "icon": "/assets/favicon_1754539072949.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754539157106_alz09u4sv",
+              "title": "子夜松声",
+              "href": "https://xyzbz.cn/",
+              "description": "小宋的 IT 知识学习。",
+              "icon": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png",
+              "enabled": true
             }
           ]
         },
