@@ -950,6 +950,14 @@
               "description": "小宋的 IT 知识学习。",
               "icon": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754539199315_98bbtej8i",
+              "title": "阿成博客",
+              "href": "https://www.xiaoac.com/",
+              "description": "小阿成的生活杂记是一个个性化的个人博客，记录日常生活点滴、流水账以及心情随笔。分享真实生活故事和生活感悟，用文字捕捉生命中的美好瞬间。",
+              "icon": "https://www.xiaoac.com/favicon.ico",
+              "enabled": true
             }
           ]
         },
