@@ -217,6 +217,14 @@
               "description": "妖业蛋，博主，不善于交际，喜欢小众音乐，爱好折腾，偶尔分享一点我的生活。",
               "icon": "/assets/favicon_1754544746742.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754545161550_dsm5bq00v",
+              "title": "旅行漫记",
+              "href": "https://synyan.cn/",
+              "description": "Travel Journal。",
+              "icon": "https://synyan.cn/wp-content/themes/hera-develop/build/images/logo.png",
+              "enabled": true
             }
           ]
         },
