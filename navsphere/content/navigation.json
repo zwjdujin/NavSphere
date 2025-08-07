@@ -1112,6 +1112,14 @@
               "description": "陈年。旧事。北禾，88年人，生于湖南岳阳，在深圳漂泊八年，现已回长沙。",
               "icon": "https://www.xingzou.org/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754540895038_9zc5ts3u2",
+              "title": "Lawtee - 法律小茶馆",
+              "href": "https://lawtee.com/",
+              "description": "作者 1980 年代末出生于湖南，2007 年起因学习、工作移居广东，现在珠三角某市辖区从事基层法律工作。",
+              "icon": "/assets/favicon_1754540850351.ico",
+              "enabled": true
             }
           ]
         }
