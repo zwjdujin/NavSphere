@@ -1088,6 +1088,14 @@
               "description": "与白云共赏霞光，云层会助力不断前行。",
               "icon": "/assets/favicon_1754539987991.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754540067829_nis74yy1z",
+              "title": "我的日志",
+              "href": "https://ilogs.cn/",
+              "description": "记录生活中的平凡事。",
+              "icon": "https://ilogs.cn/favicon.ico",
+              "enabled": true
             }
           ]
         }
