@@ -1683,6 +1683,14 @@
           "description": "博客的目的是记录，没有明确的主题，所有的文章均仅代表自己。物质满足和精神满足，总有一个要在路上。",
           "icon": "/assets/favicon_1754540756291.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754540837647_49gms2ew9",
+          "title": "时光散记",
+          "href": "https://www.sanji.one/",
+          "description": "生活与旅游的双重记录空间，支持文字、视频、图文博客多种形式。无论日常碎片还是旅途见闻，在这里都能找到共鸣，快来分享你的独家时光，遇见同频的灵魂！",
+          "icon": "/assets/favicon_1754540814503.png",
+          "enabled": true
         }
       ],
       "subCategories": []
