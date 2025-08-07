@@ -505,6 +505,14 @@
               "description": "我白天是一名的小学生，晚上是一名有抱负的魔术师，这是我的网站。 我住在广东，有一个调皮的弟弟。 我平时喜欢画画，还有玩贴纸。",
               "icon": "https://hyruo.com/wp-content/uploads/2025/03/cropped-avatar-1-32x32.webp",
               "enabled": true
+            },
+            {
+              "id": "site_1754543383122_tyzcxd390",
+              "title": "毛伊西格",
+              "href": "https://mseega.com/",
+              "description": "SEEGA 的个人博客，记录生活点滴、感悟思考、兴趣爱好。把成长中的每一个瞬间，都可以用文字、图片、视频等形式记录在博客里。以后翻阅起来，满满的都是回忆。也是思想交流平台，发表观点，收获反馈，结交同好。还是学习帮手，关注专业人士获取知识。",
+              "icon": "/assets/favicon_1754543373755.jpg",
+              "enabled": true
             }
           ]
         },
