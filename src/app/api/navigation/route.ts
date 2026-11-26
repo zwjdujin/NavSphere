@@ -1,21 +1,19 @@
 import { NextResponse } from 'next/server'
 import { auth } from '@/lib/auth'
-import { commitFile, getFileContent } from '@/lib/github'
+import { commitFile } from '@/lib/github'
+import navigationData from '@/navsphere/content/navigation.json'
 import type { NavigationData, NavigationItem } from '@/types/navigation'
 
 export const runtime = 'edge'
 
 export async function GET() {
-  try {
-    const data = await getFileContent('src/navsphere/content/navigation.json')
-    return NextResponse.json(data)
-  } catch (error) {
-    console.error('Failed to fetch navigation data:', error)
-    // 返回默认数据结构
-    return NextResponse.json({
-      navigationItems: []
-    })
-  }
+  // 直接返回构建时打包的数据，避免运行时调用 GitHub API（边缘出口 IP 匿名额度易被限流）。
+  // 管理后台保存数据后会 commit 到仓库并自动触发重新构建，数据随之更新。
+  return NextResponse.json(navigationData, {
+    headers: {
+      'Cache-Control': 's-maxage=300, stale-while-revalidate'
+    }
+  })
 }
 
 async function validateAndSaveNavigationData(data: NavigationData, accessToken: string) {
