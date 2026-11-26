@@ -3,7 +3,7 @@ compatibility_date = "2024-11-11"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
 
-[env.production.vars]
+[vars]
 GITHUB_CLIENT_ID = "Ov23liJkIHQ6aAodu5fx"
 GITHUB_OWNER = "zwjdujin"
 GITHUB_REPO = "NavSphere"
