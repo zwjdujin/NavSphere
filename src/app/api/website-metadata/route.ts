@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server'
 import { auth } from '@/lib/auth'
 import { uint8ArrayToBase64 } from '@/lib/buffer-utils'
+import { GITHUB_OWNER, GITHUB_REPO, GITHUB_BRANCH } from '@/lib/env'
 
 export const runtime = 'edge'
 
@@ -483,9 +484,9 @@ async function uploadImageToGitHub(
     prefix: string = 'favicon',
     folder: string = 'assets'
 ): Promise<{ path: string, commitHash: string }> {
-    const owner = process.env.GITHUB_OWNER!
-    const repo = process.env.GITHUB_REPO!
-    const branch = process.env.GITHUB_BRANCH || 'main'
+    const owner = GITHUB_OWNER
+    const repo = GITHUB_REPO
+    const branch = GITHUB_BRANCH
 
     // 移除 folder 开头和结尾的斜杠，避免路径错误
     const cleanFolder = folder.replace(/^\/+|\/+$/g, '')

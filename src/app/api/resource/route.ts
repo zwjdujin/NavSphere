@@ -3,6 +3,7 @@ import { auth } from '@/lib/auth'
 import { commitFile, getFileContent } from '@/lib/github'
 import type { ResourceMetadata } from '@/types/resource-metadata'
 import { uint8ArrayToBase64 } from '@/lib/buffer-utils'
+import { GITHUB_OWNER, GITHUB_REPO, GITHUB_BRANCH } from '@/lib/env'
 
 export const runtime = 'edge'
 
@@ -62,9 +63,9 @@ export async function POST(request: Request) {
 
 // Function to upload image to GitHub
 async function uploadImageToGitHub(binaryData: Uint8Array, token: string, folder: string, prefix: string): Promise<{ path: string, commitHash: string }> {
-    const owner = process.env.GITHUB_OWNER!;
-    const repo = process.env.GITHUB_REPO!;
-    const branch = process.env.GITHUB_BRANCH || 'main'
+    const owner = GITHUB_OWNER;
+    const repo = GITHUB_REPO;
+    const branch = GITHUB_BRANCH
 
     // Ensure folder doesn't have leading/trailing slashes for clean path construction
     const cleanFolder = folder.replace(/^\/+|\/+$/g, '');

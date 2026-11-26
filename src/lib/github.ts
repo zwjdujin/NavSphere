@@ -1,10 +1,11 @@
 import { auth } from '@/lib/auth'
 import { stringToBase64 } from '@/lib/buffer-utils'
+import { GITHUB_OWNER, GITHUB_REPO, GITHUB_BRANCH } from '@/lib/env'
 
 export async function getFileContent(path: string) {
-  const owner = process.env.GITHUB_OWNER!
-  const repo = process.env.GITHUB_REPO!
-  const branch = process.env.GITHUB_BRANCH || 'main'
+  const owner = GITHUB_OWNER
+  const repo = GITHUB_REPO
+  const branch = GITHUB_BRANCH
 
   try {
     const session = await auth()
@@ -49,9 +50,9 @@ export async function commitFile(
   token: string,
   retryCount = 3
 ) {
-  const owner = process.env.GITHUB_OWNER!
-  const repo = process.env.GITHUB_REPO!
-  const branch = process.env.GITHUB_BRANCH || 'main'
+  const owner = GITHUB_OWNER
+  const repo = GITHUB_REPO
+  const branch = GITHUB_BRANCH
 
   const delay = (ms: number) => new Promise(resolve => setTimeout(resolve, ms))
 

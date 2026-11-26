@@ -6,13 +6,12 @@ import {
     generateIssueBody,
     parseSubmissionFromIssueBody
 } from '@/types/submission'
+import { GITHUB_OWNER, GITHUB_REPO } from '@/lib/env'
 
 export const runtime = 'edge'
 
 
 const GITHUB_API = 'https://api.github.com'
-const GITHUB_OWNER = process.env.GITHUB_OWNER!
-const GITHUB_REPO = process.env.GITHUB_REPO!
 const GITHUB_PAT = process.env.GITHUB_PAT!
 
 // 创建投稿 (POST)

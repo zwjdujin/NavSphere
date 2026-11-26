@@ -2,14 +2,13 @@ import { NextRequest, NextResponse } from 'next/server'
 import { auth } from '@/lib/auth'
 import { SUBMISSION_LABELS, parseSubmissionFromIssueBody } from '@/types/submission'
 import { getFileContent, commitFile } from '@/lib/github'
+import { GITHUB_OWNER, GITHUB_REPO } from '@/lib/env'
 
 export const runtime = 'edge'
 
 
 
 const GITHUB_API = 'https://api.github.com'
-const GITHUB_OWNER = process.env.GITHUB_OWNER!
-const GITHUB_REPO = process.env.GITHUB_REPO!
 const GITHUB_PAT = process.env.GITHUB_PAT!
 
 interface RouteParams {
