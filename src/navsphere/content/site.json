@@ -1,1 +1,15 @@
-{"basic":{"title":"个人博客导航","description":"收集整理个人博客，并按地区分类。","keywords":"个人博客,blog,个人主页"},"appearance":{"logo":"/assets/images/alogo.png","favicon":"/assets/images/favicon.png","theme":"system"}}
+{
+  "basic": {
+    "title": "个人博客导航",
+    "description": "收集整理个人博客，并按地区分类。",
+    "keywords": "个人博客,blog,个人主页"
+  },
+  "appearance": {
+    "logo": "/assets/images/alogo.png",
+    "favicon": "/assets/images/favicon.png",
+    "theme": "system"
+  },
+  "navigation": {
+    "linkTarget": "_blank"
+  }
+}
